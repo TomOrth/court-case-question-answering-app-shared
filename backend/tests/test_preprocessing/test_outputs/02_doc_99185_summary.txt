@@ -1,0 +1,20 @@
+Document ID: 99185
+Title: Opinion
+Date: 2018-09-04
+Chunks: 14
+
+================================================================================
+
+On September 4, 2018, the United States Court of Appeals for the Ninth Circuit issued an opinion in the case of Robert Martin et al. v. City of Boise, No. 15-35845, concerning the enforcement of city ordinances against homeless individuals. The plaintiffs, six current or former residents of Boise who are or were homeless, claimed that citations issued under the City’s Camping and Disorderly Conduct Ordinances violated the Eighth Amendment's prohibition on cruel and unusual punishment. They sought damages under 42 U.S.C. § 1983, and two plaintiffs requested prospective declaratory and injunctive relief against future enforcement of these ordinances [CITE:doc_99185_chunk_00000].
+
+The panel affirmed in part and reversed in part the district court's summary judgment. The court noted that in 2014, the City amended its ordinances to prohibit enforcement against homeless individuals on nights when no shelter had available space. The panel determined that two plaintiffs had standing to pursue prospective relief due to a genuine issue of material fact regarding their risk of prosecution on nights when they could not access shelters [CITE:doc_99185_chunk_00001].
+
+The court held that the Eighth Amendment prohibits the enforcement of laws criminalizing sleeping outdoors for homeless individuals who have no access to alternative shelter. It concluded that as long as there are more homeless individuals than available shelter beds, the government cannot criminalize sleeping outdoors, as it would be punishing individuals for a condition they cannot control [CITE:doc_99185_chunk_00002].
+
+The plaintiffs had previously been convicted under the Camping Ordinance, which criminalizes using public property for camping, and the Disorderly Conduct Ordinance, which prohibits sleeping in public places without permission. The plaintiffs sought retrospective relief for these convictions, but the district court had granted summary judgment to the City, citing the Rooker-Feldman doctrine and the Heck v. Humphrey doctrine, which bars claims that would imply the invalidity of a prior conviction unless that conviction has been overturned [CITE:doc_99185_chunk_00003].
+
+On appeal, the Ninth Circuit found that while most retrospective claims were barred by Heck, two plaintiffs—Robert Martin and Pamela Hawkes—were eligible for retrospective relief concerning citations that were dismissed before any conviction occurred. The court clarified that the Eighth Amendment applies to the criminalization of conduct that is an unavoidable consequence of being homeless, such as sleeping in public when no shelter is available [CITE:doc_99185_chunk_00004].
+
+The court also addressed the issue of standing for prospective relief, concluding that Martin and Anderson had demonstrated a credible threat of future prosecution under the ordinances, thus allowing them to seek injunctive relief. The panel emphasized that the 2014 amendments to the ordinances did not eliminate the risk of prosecution since individuals could still be turned away from shelters for reasons other than capacity, such as exceeding stay limits or failing to participate in mandatory religious programs [CITE:doc_99185_chunk_00005].
+
+In conclusion, the Ninth Circuit affirmed the district court's judgment regarding retrospective relief for most plaintiffs but reversed and remanded for further consideration of prospective relief and the specific retrospective claims of Martin and Hawkes. The court's ruling underscored the constitutional protections against punishing individuals for their status as homeless, particularly when no adequate shelter options are available [CITE:doc_99185_chunk_00006].

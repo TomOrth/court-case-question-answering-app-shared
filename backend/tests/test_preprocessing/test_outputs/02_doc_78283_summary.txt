@@ -1,0 +1,20 @@
+Document ID: 78283
+Title: Order [protective order]
+Date: 2015-01-06
+Chunks: 2
+
+================================================================================
+
+On January 6, 2015, the United States District Court for the District of Idaho issued an Order regarding a Motion for Protective Order filed by the Defendants in the case of Janet F. Bell, et al. v. City of Boise, et al., Case No. CV 09-540-S-REB. The Defendants sought to limit the scope of the deposition of AnaMarie Guiles, which was scheduled for January 7, 2015. The Court noted that the Plaintiffs had not yet responded to the motion, prompting the issuance of the Order to provide guidance ahead of the deposition [CITE:doc_78283_chunk_00000].
+
+The Court outlined the legal standards governing discovery, referencing Federal Rule of Civil Procedure 26(b)(1), which allows for the discovery of any matter relevant to the subject matter involved in the action. The Court emphasized that relevance is broadly construed at the discovery stage and that evidence may be discoverable even if it is inadmissible at trial, provided it is reasonably calculated to lead to admissible evidence [CITE:doc_78283_chunk_00001].
+
+In its discussion, the Court acknowledged the Defendants' burden to demonstrate specific harm that would justify a protective order. It recognized that extending a deposition beyond relevant questions could create undue burden and expense. The Court noted that the Plaintiffs had previously agreed to limit inquiries regarding the City of Boise’s programs aimed at combating homelessness during the City’s 30(b)(6) deposition. Consequently, the Court applied these same limitations to the deposition of AnaMarie Guiles [CITE:doc_78283_chunk_00001].
+
+However, the Court determined that certain topics regarding the resources available to homeless individuals in Boise were relevant to the Plaintiffs' claims. Specifically, the Plaintiffs could inquire about the number of homeless persons in Boise, whether that number included individuals from surrounding areas, and the capacity of City resources to shelter homeless individuals. These inquiries were deemed likely to lead to the discovery of admissible evidence related to the Plaintiffs' claims that the City’s ordinance and its enforcement were unconstitutional under the Eighth Amendment [CITE:doc_78283_chunk_00001].
+
+Conversely, the Court ruled that inquiries into the operation, management, and funding of the City of Boise’s housing units for low to moderate income residents, as well as the City’s trust administering home loans, were not appropriate for the deposition as they did not appear to lead to the discovery of admissible evidence [CITE:doc_78283_chunk_00001].
+
+The Court expressed confidence that the Plaintiffs’ counsel would appropriately limit their inquiries to relevant areas and avoid questions intended solely to embarrass or harass the Defendants, in accordance with discovery rules [CITE:doc_78283_chunk_00001].
+
+In conclusion, the Court partially granted and partially denied the Defendants' Motion for Protective Order, allowing some inquiries while restricting others, as detailed in the Order. The ruling was issued by Honorable Ronald E. Bush, U.S. Magistrate Judge, on January 6, 2015 [CITE:doc_78283_chunk_00000].

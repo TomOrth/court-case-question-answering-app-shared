@@ -1,0 +1,41 @@
+Document ID: 106773
+Title: Third Amended Complaint for Declaratory And Injunctive Relief and Monetary Damages
+Date: 2020-03-10
+Chunks: 9
+
+================================================================================
+
+The **Third Amended Complaint for Declaratory and Injunctive Relief and Monetary Damages** was filed on March 10, 2020, in the United States District Court for the District of Idaho by plaintiffs Robert Martin, Robert Anderson, and Pamela Hawkes against the City of Boise and Michael Masterson, the Interim Chief of Police [CITE:doc_106773_chunk_00000]. 
+
+### Background
+The plaintiffs allege that Boise has a significant homelessness issue, with hundreds of individuals experiencing homelessness and only about 450 emergency shelter beds available. Many shelters have restrictive policies that limit access based on disabilities or religious requirements, leading individuals to sleep in public areas, which is prohibited under Boise Municipal Code [CITE:doc_106773_chunk_00001]. The plaintiffs claim that the enforcement of these ordinances criminalizes homelessness and violates the Eighth Amendment, which prohibits cruel and unusual punishment.
+
+### Jurisdiction and Venue
+The court has jurisdiction under 28 U.S.C. §§ 1331, 1343(a)(3) and (4), and 1367, as the plaintiffs seek relief under 42 U.S.C. § 1983 for violations of their Eighth Amendment rights [CITE:doc_106773_chunk_00001].
+
+### Plaintiffs' Claims
+1. **Robert Anderson** has been homeless since February 2015 and has received camping citations, which resulted in incarceration and fines he could not afford [CITE:doc_106773_chunk_00001].
+2. **Robert Martin** has experienced homelessness intermittently since he was eighteen and has received multiple citations for sleeping in public places despite being unable to access shelters [CITE:doc_106773_chunk_00002].
+3. **Pamela Hawkes** received multiple camping citations in 2006 and 2007, which led her to leave Boise due to fear of further citations and fines [CITE:doc_106773_chunk_00002].
+
+### Defendants
+The **City of Boise** is a municipal corporation responsible for the actions of its police department. **Michael Masterson**, as Interim Chief of Police, is responsible for enforcing the ordinances that the plaintiffs claim violate their rights [CITE:doc_106773_chunk_00002].
+
+### Factual Allegations
+The complaint details the ordinances that criminalize sleeping outside, specifically Boise City Code § 5-2-3(A) (Disorderly Conduct) and § 7-3A-2(A) (Camping) [CITE:doc_106773_chunk_00003]. The plaintiffs argue that the enforcement of these laws against individuals who lack alternative shelter constitutes cruel and unusual punishment under the Eighth Amendment. They cite the **Martin v. City of Boise** case, which established that punishing individuals for sleeping outside when no shelter is available is unconstitutional [CITE:doc_106773_chunk_00003].
+
+### Shelter Availability
+The complaint outlines the inadequate shelter availability in Boise, noting that shelters often operate at capacity and have strict policies that prevent many individuals from accessing them. For example, the Boise Rescue Mission has policies that can lead to individuals being barred from shelter due to stay limits or religious requirements [CITE:doc_106773_chunk_00006]. 
+
+### Enforcement Practices
+The plaintiffs allege that Boise police routinely target individuals experiencing homelessness for citations, particularly during early morning hours when they are waking up from sleeping outside. This practice is said to contribute to a cycle of homelessness and criminalization [CITE:doc_106773_chunk_00007]. 
+
+### Claims for Relief
+The plaintiffs seek:
+1. An injunction against the enforcement of the ordinances that penalize individuals for sleeping outside when no shelter is available.
+2. A declaration that the enforcement of these ordinances violates the Eighth Amendment.
+3. Monetary damages for the harm caused by these citations and arrests.
+4. Recovery of costs and attorney fees [CITE:doc_106773_chunk_00008].
+
+### Conclusion
+The plaintiffs argue that the enforcement of Boise's camping and disorderly conduct ordinances against individuals experiencing homelessness violates their constitutional rights and perpetuates the cycle of homelessness. They seek judicial relief to prevent further enforcement of these laws under the circumstances where no alternative shelter is available [CITE:doc_106773_chunk_00008].

@@ -1,0 +1,18 @@
+Document ID: 78326
+Title: Opinion [Appellate decision reversing and remanding order for summary disposition]
+Date: 2013-03-07
+Chunks: 8
+
+================================================================================
+
+The United States Court of Appeals for the Ninth Circuit issued an opinion on March 7, 2013, reversing and remanding a district court's order for summary disposition in the case of Bell v. City of Boise, No. 11-35674. The plaintiffs, Janet F. Bell, Brian S. Carson, Robert Martin, Lawrence Lee Smith, Robert Anderson, Pamela S. Hawkes, and Basil E. Humphrey, are individuals who are or have been homeless and alleged violations of the Eighth Amendment due to the enforcement of local camping and sleeping ordinances by the defendants, which include the City of Boise, the Boise Police Department, and Chief of Police Michael Masterson in his official capacity [CITE:doc_78326_chunk_00000].
+
+The plaintiffs contended that the enforcement of these ordinances effectively criminalized their status as homeless individuals and constituted cruel and unusual punishment. They sought both retrospective and prospective relief under 42 U.S.C. § 1983, including declaratory and injunctive relief to prevent the enforcement of the ordinances, expungement of criminal records, reimbursement of fines, and damages [CITE:doc_78326_chunk_00001].
+
+The district court had previously granted summary judgment to the defendants, ruling that the Rooker-Feldman doctrine barred the plaintiffs' claims for retrospective relief and that their claims for prospective relief were moot due to changes in the ordinances and police policy. The court found that the plaintiffs' claims for prospective relief were largely moot because the City of Boise amended the Camping Ordinance and the Chief of Police issued a Special Order that modified the enforcement of the ordinances [CITE:doc_78326_chunk_00002].
+
+On appeal, the Ninth Circuit panel, consisting of Judges Susan H. Black, Susan P. Graber, and Johnnie B. Rawlinson, reversed the district court's decision. The panel determined that the Rooker-Feldman doctrine did not apply to the plaintiffs' claims for retrospective relief because the plaintiffs were not challenging the validity of the state court judgments but rather the allegedly unconstitutional enforcement of the ordinances by the City [CITE:doc_78326_chunk_00003]. The panel also reversed the dismissal of the plaintiffs' claims for prospective relief, stating that the defendants had not met their burden of demonstrating that the Special Order rendered the plaintiffs' claims moot. The court noted that the Special Order, which prohibited enforcement of the ordinances when no shelter was available, did not eliminate the possibility of future enforcement against the homeless [CITE:doc_78326_chunk_00004].
+
+The court emphasized that the plaintiffs' claims for prospective relief regarding nighttime enforcement of the ordinances remained justiciable and that the case should be remanded for further proceedings to consider the merits of these claims. The Ninth Circuit did not address the merits of the plaintiffs' Eighth Amendment claims but focused on the jurisdictional issues surrounding the Rooker-Feldman doctrine and mootness [CITE:doc_78326_chunk_00005].
+
+In conclusion, the Ninth Circuit reversed the district court's dismissal of the plaintiffs' claims for retrospective relief and found that jurisdiction existed for the prospective relief claims related to nighttime enforcement of the ordinances, remanding the case for further proceedings consistent with its opinion [CITE:doc_78326_chunk_00006].

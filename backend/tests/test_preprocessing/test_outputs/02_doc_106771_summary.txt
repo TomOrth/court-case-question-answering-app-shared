@@ -1,0 +1,20 @@
+Document ID: 106771
+Title: Order
+Date: 2019-04-01
+Chunks: 23
+
+================================================================================
+
+The court document titled "Order" dated April 1, 2019, pertains to the case of Martin v. City of Boise, 920 F.3d 584 (2019), where the plaintiffs, a group of homeless individuals, challenged the constitutionality of Boise's public camping ordinances under the Eighth Amendment. The plaintiffs included Robert Martin, Lawrence Lee Smith, Robert Anderson, Janet F. Bell, Pamela S. Hawkes, and Basil E. Humphrey, who claimed that the ordinances criminalized their necessity to sleep in public spaces due to a lack of available shelter [CITE:doc_106771_chunk_00000].
+
+The Ninth Circuit Court of Appeals addressed the procedural history, noting that the district court had initially granted summary judgment in favor of the City of Boise, which led to the plaintiffs appealing the decision. The Court of Appeals reversed the district court's ruling and remanded the case, asserting that the Eighth Amendment prohibits criminal penalties for sitting, sleeping, or lying outside on public property for homeless individuals who cannot obtain shelter [CITE:doc_106771_chunk_00001].
+
+The court's holdings emphasized that the plaintiffs had standing to pursue their claims, even after the city adopted a protocol not to enforce the public camping ordinance when available shelters were full. The court clarified that the Heck doctrine, which bars certain § 1983 actions based on prior convictions, did not apply to the plaintiffs, as their citations were dismissed before any convictions were obtained [CITE:doc_106771_chunk_00002]. 
+
+The court also highlighted that the Eighth Amendment imposes substantive limits on what can be criminalized, particularly concerning individuals who are homeless and lack alternative sleeping arrangements. It ruled that the enforcement of ordinances criminalizing sleeping in public spaces, when no shelter is available, constitutes cruel and unusual punishment [CITE:doc_106771_chunk_00003].
+
+In terms of procedural posture, the court noted that the plaintiffs sought both retrospective and prospective relief. The majority opinion affirmed the district court's judgment regarding retrospective relief but reversed and remanded concerning prospective relief, allowing the plaintiffs to seek declaratory and injunctive relief against future enforcement of the ordinances [CITE:doc_106771_chunk_00004].
+
+The dissenting opinions expressed concern over the implications of the majority's ruling, arguing that it could hinder local governments' ability to enforce public health and safety laws. The dissenters contended that the majority's interpretation of the Eighth Amendment could lead to unintended consequences, such as preventing local authorities from addressing issues related to homelessness effectively [CITE:doc_106771_chunk_00005].
+
+Overall, the court's decision in Martin v. City of Boise underscores the tension between municipal regulations aimed at managing homelessness and constitutional protections against cruel and unusual punishment, particularly in the context of individuals who lack access to adequate shelter [CITE:doc_106771_chunk_00006].

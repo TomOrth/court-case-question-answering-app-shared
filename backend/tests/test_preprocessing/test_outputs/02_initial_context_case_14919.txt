@@ -1,0 +1,355 @@
+# Case: Bell v. City of Boise
+
+## Basic Information
+- Court: District of Idaho
+- State: Idaho
+- Filing Date: 2009-10-22
+- Case Status: No
+
+## Case Summary
+<p>On October 22, 2009, homeless individuals represented by Idaho Legal Services and the National Center on Homelessness and Poverty filed this complaint in the U.S. District Court for the District of Idaho against the City of Boise. The plaintiffs had been cited under a pair of Boise municipal ordinances that made it illegal to sleep or camp in public parks and other public areas, despite the lack of available beds at the city's shelters. The complaint alleged that criminalizing homelessness in this manner constituted cruel and unusual punishment under the Eighth Amendment and a violation of the plaintiffs' due process rights under the Fourteenth Amendment. The plaintiffs sought an injunction against the enforcement of the ordinances, damages under federal civil rights law, and declaratory and injunctive relief voiding the plaintiffs' prior citations and holding the ordinances unconstitutional.</p>
+<p>The city sought and won a motion for summary judgment, entered by Magistrate Judge Ronald Bush on July 6, 2011. 834 F. Supp.2d 1103. Judge Bush held that the plaintiffs had not demonstrated that the ordinance criminalized homelessness. In addition, the court said that the claims had been mooted by subsequent clarifications of enforcement protocols by the Boise police and an amendment to the ordinance that provided a more precise definition of "camping."</p>
+<p>The plaintiffs appealed, and the case was reversed and remanded by the Ninth Circuit on March 7, 2013. 709 F.3d 890. In an opinion issued by a panel consisting of Judges Susan Black, Susan Graber, and Johnnie Rawlinson, the court determined that the plaintiffs' claims for backward-looking relief were not jurisdictionally barred since they did not seek relief from the state court itself. The court further held the plaintiffs' claims for prospective relief had not been mooted by the defendants' new "voluntary conduct" in the form of protocols and amendments for the enforcement of the ordinances.</p>
+<p>On remand, the defendant filed for summary judgment again on August 15, 2013. The district court issued an opinion on January 27 2014, granting the the motion for summary judgment as to the damages claims because the plaintiffs had not yet had their convictions overturned via direct appeal. At the court's direction, the plaintiffs filed an amended complaint omitting the damages claims, with the request for prospective injunctive and declaratory judgment as the only surviving claim.</p>
+<p>The defendant filed a motion to dismiss on December 31, 2014, asserting that the plaintiffs could no longer bring their claims because some plaintiffs could not be located by counsel and others had no active disputes with the defendants. The plaintiffs filed for summary judgment on April 30, 2015. On July 6, 2015, the United States filed a statement of interest, detailing its support of the plaintiffs' position, arguing that the court must consider whether it was possible for homeless residents like the plaintiffs to conform their conduct to the ordinances when shelters were full.</p>
+<p>On September 28, 2015, Judge Bush issued an opinion again dismissing the suit in its entirety. 2015 WL 5708586. The opinion held that the plaintiffs lacked standing to challenge the ordinances because the defendants had further amended the ordinances to make exceptions for circumstances where shelters were full, mooting the plaintiffs claims.</p>
+<p>The plaintiffs appealed again to the Ninth Circuit on October 29, 2015 (15-35845). On September 4, 2018, a three-judge panel of the Ninth Circuit of Judges Marsha Berzon, Paul Watford, and John Owens reversed. 902 F.3d 1031. The Ninth Circuit held the Eighth Amendment prohibited Boise from enforcing the ordinances against homeless residents forced to sleep outside by a lack of shelter space. The court also held that two of the plaintiffs in the suit had shown they could be eligible for retrospective injunctive relief that could vacate their previous citations, and injunctive relief banning future enforcement of the ordinances. The case was remanded again to the District Court.</p>
+<p>The defendants filed a motion for rehearing <em>en banc</em> by the full Ninth Circuit Court of Appeals, but the court denied this motion on April 1, 2019. Subsequent to the denial, the defendants filed a petition for a writ of certiorari in the U.S. Supreme Court. The court denied that petition on December 16, 2019. 920 F.3d 584.</p>
+<p>After the denial of cert, litigation resumed in the district court on the remaining issues in the case. The plaintiffs filed a third amended complaint on March 10, 2020. The remaining claim was an Eighth Amendment violation for penalizing plaintiffs based on their homeless status. They sought injunctive relief enjoining defendants from enforcing Boise Municipal Code &sect;&sect; 5-2-3(A) and 7-3A-2(A), declarative relief, damages, and attorneys' fees.&nbsp;</p>
+<p>On February 8, 2021, the plaintiffs reported that the parties had reached a settlement and filed a motion to dismiss with prejudice, conditioned on the City's approval of the terms of the settlement agreement and implementation of the actions described in the agreement. The settlement included an agreement that the City would take various actions to prevent and end homelessness in the City, including implementing changes to the City's ordinances to protect homeless individuals from being arrested, imprisoned, or fined for sleeping or camping outside when no overnight shelter is available to them, implementing mandatory annual training on homelessness, and allocating $1.3 million in additional funding to serve the City's homeless community. The city would also pay $5,000 in damages and $435,000 in fees to the plaintiffs' attorneys. However, the court was concerned about the contingencies in the motion and asked the parties to draft a stipulation for dismissal. On March 1, 2021, the parties filed a Joint Stipulation to Dismiss with Prejudice, and on March 2, 2021, the Court finally ordered dismissal with prejudice. The case is now closed.</p>
+
+## Document Summaries
+
+This case has 19 documents. Below are AI-generated summaries with citations.
+
+### [Document ID: 78342] Memorandum Decision and Order on Defendants' Motion to Strike and Dismiss Portions of the Second Amended Complaint (2014-07-16)
+
+On July 16, 2014, the United States District Court for the District of Idaho issued a Memorandum Decision and Order regarding the Defendants' Motion to Strike and Dismiss Portions of the Plaintiffs' Second Amended Complaint in the case of Bell et al. v. City of Boise et al., Case No. 1:09-cv-00540-REB [CITE:doc_78342_chunk_00000].
+
+**Background:**
+The Plaintiffs, a group of individuals who are or were homeless in Boise, Idaho, allege that the Defendants, which include the City of Boise, the Boise Police Department, and Chief of Police Michael Masterson, have criminalized homelessness through the enforcement of certain city ordinances. The ordinances in question include the "Camping Ordinance" and the "Sleeping Ordinance," which the Plaintiffs argue violate their civil rights [CITE:doc_78342_chunk_00001].
+
+The Defendants filed a motion to dismiss the Plaintiffs' First Claim for Relief under 42 U.S.C. § 1983 and to strike allegations related to the enforcement of Boise City Code § 13-03-05(E), known as the "Park After Dark" ordinance. The Court granted the motion in part and denied it in part, requiring the Plaintiffs to remove certain claims and allegations from their Second Amended Complaint [CITE:doc_78342_chunk_00001].
+
+**Discussion:**
+1. **Plaintiffs’ § 1983 Claim:**
+   The Defendants contended that the Plaintiffs' § 1983 claim was barred by the precedent set in Heck v. Humphrey, which requires that a plaintiff must have their conviction overturned before they can claim damages for wrongful imprisonment. The Court found that the Plaintiffs' claims were based on their convictions under the challenged ordinances, which had not been reversed or called into question. Therefore, the Court ruled that the Heck bar applied, and the Plaintiffs could not seek damages or other relief that would imply the invalidity of their convictions [CITE:doc_78342_chunk_00001].
+
+   However, the Court allowed the Plaintiffs to assert a § 1983 claim for prospective declaratory and injunctive relief, provided they could support such a claim with legal authority. The Plaintiffs referenced two cases, Steffel v. Thompson and Vasquez v. Rackauckas, but the Court determined that these cases did not provide sufficient authority to overcome the Heck bar established in Wilkinson v. Dotson [CITE:doc_78342_chunk_00001].
+
+2. **Allegations Related to Boise City Code § 13-03-05(E):**
+   The Defendants sought to strike all allegations related to the Park After Dark ordinance, arguing that these claims were new and had not been previously raised. The Court agreed, noting that the Plaintiffs had not sought permission to amend their complaint after the deadline for amendments had passed, nor had they demonstrated good cause for doing so. The Court emphasized that the Plaintiffs were attempting to introduce a new claim without the necessary procedural steps [CITE:doc_78342_chunk_00002].
+
+3. **Other New Factual Allegations:**
+   The Court found that while some new factual allegations in the Second Amended Complaint, such as updates on the Plaintiffs' health and statistics about Boise's homeless population, were appropriate, the allegations related to the Park After Dark ordinance should be stricken. The Court clarified that evidence regarding the ordinance could still be presented at trial if relevant to the claims properly raised [CITE:doc_78342_chunk_00003].
+
+**Conclusion & Order:**
+The Court granted the Defendants' motion in part, striking the § 1983 claim and the demand for a jury trial from the Second Amended Complaint. Additionally, any allegations related to the Park After Dark ordinance were also ordered to be removed. The Plaintiffs were instructed to file a Revised Second Amended Complaint by July 31, 2014, removing all stricken matters without altering any allegations or introducing new claims. The parties were also directed to submit a new stipulated litigation plan by August 7, 2014, to propose deadlines for the case going forward [CITE:doc_78342_chunk_00003]. 
+
+The Court indicated that some additional discovery would be allowed, but it would be limited to the time period from the Ninth Circuit’s remand to the present, with a preference for an expedited schedule to facilitate a timely trial [CITE:doc_78342_chunk_00003].
+
+### [Document ID: 78326] Opinion [Appellate decision reversing and remanding order for summary disposition] (2013-03-07)
+
+The United States Court of Appeals for the Ninth Circuit issued an opinion on March 7, 2013, reversing and remanding a district court's order for summary disposition in the case of Bell v. City of Boise, No. 11-35674. The plaintiffs, Janet F. Bell, Brian S. Carson, Robert Martin, Lawrence Lee Smith, Robert Anderson, Pamela S. Hawkes, and Basil E. Humphrey, are individuals who are or have been homeless and alleged violations of the Eighth Amendment due to the enforcement of local camping and sleeping ordinances by the defendants, which include the City of Boise, the Boise Police Department, and Chief of Police Michael Masterson in his official capacity [CITE:doc_78326_chunk_00000].
+
+The plaintiffs contended that the enforcement of these ordinances effectively criminalized their status as homeless individuals and constituted cruel and unusual punishment. They sought both retrospective and prospective relief under 42 U.S.C. § 1983, including declaratory and injunctive relief to prevent the enforcement of the ordinances, expungement of criminal records, reimbursement of fines, and damages [CITE:doc_78326_chunk_00001].
+
+The district court had previously granted summary judgment to the defendants, ruling that the Rooker-Feldman doctrine barred the plaintiffs' claims for retrospective relief and that their claims for prospective relief were moot due to changes in the ordinances and police policy. The court found that the plaintiffs' claims for prospective relief were largely moot because the City of Boise amended the Camping Ordinance and the Chief of Police issued a Special Order that modified the enforcement of the ordinances [CITE:doc_78326_chunk_00002].
+
+On appeal, the Ninth Circuit panel, consisting of Judges Susan H. Black, Susan P. Graber, and Johnnie B. Rawlinson, reversed the district court's decision. The panel determined that the Rooker-Feldman doctrine did not apply to the plaintiffs' claims for retrospective relief because the plaintiffs were not challenging the validity of the state court judgments but rather the allegedly unconstitutional enforcement of the ordinances by the City [CITE:doc_78326_chunk_00003]. The panel also reversed the dismissal of the plaintiffs' claims for prospective relief, stating that the defendants had not met their burden of demonstrating that the Special Order rendered the plaintiffs' claims moot. The court noted that the Special Order, which prohibited enforcement of the ordinances when no shelter was available, did not eliminate the possibility of future enforcement against the homeless [CITE:doc_78326_chunk_00004].
+
+The court emphasized that the plaintiffs' claims for prospective relief regarding nighttime enforcement of the ordinances remained justiciable and that the case should be remanded for further proceedings to consider the merits of these claims. The Ninth Circuit did not address the merits of the plaintiffs' Eighth Amendment claims but focused on the jurisdictional issues surrounding the Rooker-Feldman doctrine and mootness [CITE:doc_78326_chunk_00005].
+
+In conclusion, the Ninth Circuit reversed the district court's dismissal of the plaintiffs' claims for retrospective relief and found that jurisdiction existed for the prospective relief claims related to nighttime enforcement of the ordinances, remanding the case for further proceedings consistent with its opinion [CITE:doc_78326_chunk_00006].
+
+### [Document ID: 78277] Docket [PACER] (2020-05-26)
+
+The case Martin et al v. City of Boise, Idaho et al, filed on October 22, 2009, in the U.S. District Court for the District of Idaho, involves multiple plaintiffs, including Janet F. Bell, Ronald Anderson, Brian S. Carson, Robert Martin, Lawrence Lee Smith, Pamela Hawkes, Craig Fox, and others, against defendants City of Boise, Idaho, Boise Police Department, and Michael Masterson in his official capacity as Interim Chief of Police. The case is grounded in civil rights claims under 42 U.S.C. § 1983, with a jury demand from both parties [CITE:doc_78277_chunk_00000].
+
+The case has seen numerous motions, including motions for admission pro hac vice for various attorneys representing the plaintiffs, as well as motions for waivers of fees for pro bono counsel [CITE:doc_78277_chunk_00004]. The plaintiffs have sought various forms of relief, including injunctive and declaratory relief, and have filed multiple amended complaints throughout the proceedings [CITE:doc_78277_chunk_00008].
+
+Significant procedural developments include a series of motions for summary judgment filed by both plaintiffs and defendants, with the court ultimately granting the defendants' motion for summary judgment on July 6, 2011, dismissing the plaintiffs' amended complaint [CITE:doc_78277_chunk_00011]. The plaintiffs appealed the decision, which led to a reversal and remand from the Ninth Circuit Court of Appeals on March 7, 2013 [CITE:doc_78277_chunk_00012].
+
+Following remand, the case continued with a series of motions, including motions to dismiss and motions for sanctions for spoliation of documents. The court has held multiple hearings to address these motions, with the most recent significant ruling occurring on August 23, 2015, where the court granted the defendants' motion to dismiss certain plaintiffs from the case [CITE:doc_78277_chunk_00028].
+
+The case has involved extensive discovery disputes, including motions to compel and protective orders, as well as various motions to withdraw as counsel from several attorneys representing the plaintiffs [CITE:doc_78277_chunk_00019]. The plaintiffs have also filed a motion for taxation of costs, which has been addressed in the context of the ongoing litigation [CITE:doc_78277_chunk_00020].
+
+As of May 12, 2020, the court ordered the parties to confer regarding targeted discovery necessary for the case and to file a joint discovery plan by May 26, 2020, indicating the court's intent to facilitate further proceedings in the case [CITE:doc_78277_chunk_00031]. The case remains active, with ongoing motions and hearings scheduled as the parties continue to navigate the complexities of the litigation.
+
+### [Document ID: 78281] Memorandum Decision and Order (2011-07-06)
+
+The United States District Court for the District of Idaho issued a Memorandum Decision and Order on July 6, 2011, regarding case CV 09-540-S-REB, involving plaintiffs Janet F. Bell, Brian S. Carson, Craig Fox, Robert Martin, Lawrence Lee Smith, Robert Anderson, Pamela S. Hawkes, Jonathon Leigh Miller, James M. Godfrey, Basil E. Humphrey, and Kirk Ross against defendants City of Boise, Boise Police Department, and Chief of Police Michael Masterson [CITE:doc_78281_chunk_00000].
+
+**Background:**
+The plaintiffs, who are or were homeless individuals in Boise, alleged that the defendants enforced city ordinances against camping and sleeping in public spaces to drive the homeless out of the city. The ordinances in question are Boise City Code §§ 9-10-02 (Camping Ordinance) and 6-01-05(A) (Sleeping Ordinance) [CITE:doc_78281_chunk_00001]. The Camping Ordinance criminalizes the use of public property for dwelling or lodging, while the Sleeping Ordinance prohibits sleeping in any location without the owner's permission [CITE:doc_78281_chunk_00001].
+
+The plaintiffs claimed that they were cited and convicted under these ordinances, alleging that the enforcement practices effectively criminalized homelessness and penalized them for basic necessities of life, such as sleeping [CITE:doc_78281_chunk_00001]. They sought declaratory and injunctive relief, along with monetary damages under 42 U.S.C. § 1983, arguing that the enforcement of these ordinances violated their Eighth Amendment rights and other constitutional protections [CITE:doc_78281_chunk_00001].
+
+**Court's Analysis:**
+The court analyzed the claims based on established legal precedents, including the U.S. Supreme Court's ruling in Robinson v. California, which prohibits punishing individuals for their status, such as homelessness [CITE:doc_78281_chunk_00002]. The court noted that the Ninth Circuit had previously ruled against similar ordinances that criminalized innocent acts like sleeping in public when no shelter was available [CITE:doc_78281_chunk_00002].
+
+However, the court found that the plaintiffs failed to demonstrate that they had no choice but to be present in public spaces due to a lack of shelter. Evidence indicated that the City of Boise provided safe harbor in parks during the day and had a directive in place to prevent citations at night when shelter space was available [CITE:doc_78281_chunk_00004]. The court concluded that the city's enforcement policies were reasonable and did not violate the Eighth Amendment or other constitutional rights [CITE:doc_78281_chunk_00004].
+
+**Rooker-Feldman Doctrine:**
+The court ruled that the plaintiffs' claims for retrospective relief were barred by the Rooker-Feldman doctrine, which prevents federal courts from reviewing state court judgments. This included claims for damages related to fines and criminal records resulting from state court convictions [CITE:doc_78281_chunk_00003]. The court stated that granting such relief would undermine the state court's jurisdiction and serve as a de facto appeal from state court decisions [CITE:doc_78281_chunk_00003].
+
+**Mootness of Prospective Relief:**
+The court found that the plaintiffs' claims for prospective relief were largely moot due to the Boise Police Department's Special Order, which clarified that the Camping and Sleeping Ordinances would not be enforced when shelter space was unavailable [CITE:doc_78281_chunk_00004]. The court noted that the city had taken measures to ensure that homeless individuals would not be cited for simply being present in public spaces when no shelter was available [CITE:doc_78281_chunk_00004].
+
+**Conclusion:**
+The court granted the defendants' Motion for Summary Judgment, dismissing the plaintiffs' Amended Complaint. The court also deemed the defendants' Motion to Dismiss Plaintiff Smith and Motion to Strike as moot [CITE:doc_78281_chunk_00006]. The decision did not prevent the plaintiffs from bringing future actions if the enforcement of the ordinances did not align with the Special Order's intentions [CITE:doc_78281_chunk_00006].
+
+The ruling underscores the balance between municipal regulations and the rights of homeless individuals, emphasizing the need for cities to provide adequate shelter options while enforcing public safety ordinances.
+
+### [Document ID: 78340] Memorandum Decision and Order on Defendants' Second Motion for Summary Judgment (2014-01-27)
+
+The United States District Court for the District of Idaho issued a Memorandum Decision and Order on January 27, 2014, regarding the Defendants' Second Motion for Summary Judgment in the case of Janet F. Bell et al. v. City of Boise et al., Case No. 1:09-cv-00540-REB [CITE:doc_78340_chunk_00000]. The plaintiffs, who are or were homeless individuals in Boise, allege that the enforcement of Boise City ordinances criminalizes their status as homeless by prohibiting camping and sleeping in public spaces [CITE:doc_78340_chunk_00001]. 
+
+The Defendants, which include the City of Boise, the Boise Police Department, and Police Chief Michael Masterson, sought summary judgment on the grounds that the enforcement actions do not violate the Eighth Amendment's prohibition on cruel and unusual punishment [CITE:doc_78340_chunk_00001]. The court previously dismissed the plaintiffs' claims on jurisdictional and mootness grounds, but the Ninth Circuit Court of Appeals reversed that decision, allowing the case to proceed [CITE:doc_78340_chunk_00001].
+
+In the current ruling, the court determined that the plaintiffs' Eighth Amendment claims are largely barred by the "favorable-termination" requirement established in Heck v. Humphrey, which mandates that a plaintiff must prove their conviction has been reversed or invalidated before pursuing damages for alleged unconstitutional actions related to that conviction [CITE:doc_78340_chunk_00001]. The court noted that the plaintiffs could have raised their Eighth Amendment arguments as defenses in their criminal prosecutions, and a ruling in their favor would imply the invalidity of their prior convictions [CITE:doc_78340_chunk_00003].
+
+Consequently, the court dismissed all claims seeking expungement of records, reimbursement for fines, and damages related to past events that would imply the invalidity of the plaintiffs' convictions [CITE:doc_78340_chunk_00001]. However, the court allowed the plaintiffs' request for a declaratory judgment to proceed, which seeks to declare that the enforcement of the ordinances violates their rights under the Eighth Amendment and the Idaho Constitution [CITE:doc_78340_chunk_00001]. 
+
+The court emphasized that this declaratory relief is not barred by res judicata, as the claims for prospective relief differ from the retrospective claims that were dismissed [CITE:doc_78340_chunk_00001]. The plaintiffs were instructed to file an Amended Complaint that specifically states the remaining claim for declaratory relief, omitting the dismissed claims [CITE:doc_78340_chunk_00001].
+
+In summary, the court granted the Defendants' motion in part, dismissing most of the plaintiffs' claims while allowing their request for declaratory relief to proceed, requiring the plaintiffs to file an Amended Complaint by February 25, 2014 [CITE:doc_78340_chunk_00001].
+
+### [Document ID: 154972] Joint Stipulation to Dismiss with Prejudice (2021-03-01)
+
+On March 1, 2021, the plaintiffs Robert Martin, Pamela Hawkes, and Robert Anderson filed a Joint Stipulation to Dismiss with Prejudice in the case against the City of Boise, identified as Case No. 1:09-cv-00540-REB [CITE:doc_154972_chunk_00000]. The parties reached a settlement regarding the claims in this action, as detailed in their Joint Motion for Dismissal with Prejudice and accompanying documents [CITE:doc_154972_chunk_00001]. 
+
+The stipulation indicates that all claims in the action will be dismissed with prejudice, meaning they cannot be refiled in the future. Each party has agreed to bear its own costs, expenses, and attorneys' fees, unless otherwise specified in the Settlement Agreement [CITE:doc_154972_chunk_00001]. 
+
+The document was signed by multiple attorneys representing both the plaintiffs and the defendants, including Howard A. Belodoff from Idaho Legal Aid Services, Michael E. Bern and others from Latham & Watkins LLP for the plaintiffs, and Jayme Sullivan and Scott Muir from the Boise City Attorney’s Office for the defendants [CITE:doc_154972_chunk_00002]. 
+
+Additionally, a Certificate of Service was included, certifying that the stipulation was electronically filed and served to the relevant parties on the same date [CITE:doc_154972_chunk_00003].
+
+### [Document ID: 154910] Order of Dismissal with Prejudice (2021-03-02)
+
+The United States District Court for the District of Idaho issued an Order of Dismissal with Prejudice on March 2, 2021, regarding the case Robert Martin, et al. v. City of Boise, et al., Case No. 1:09-cv-00540-REB. The dismissal was based on a Joint Stipulation to Dismiss with Prejudice filed by the parties (Dkt. 392), in accordance with FRCP 41(a)(1)(A)(ii) of the Federal Rules of Civil Procedure. The Court ordered that the action be dismissed in its entirety and directed the Clerk’s Office to close the case [CITE:doc_154910_chunk_00000]. The order was signed by Chief U.S. Magistrate Judge Ronald E. Bush.
+
+### [Document ID: 155309] Exhibit B - Settlement Agreement (2021-02-08)
+
+The document titled "Exhibit B - Settlement Agreement" dated February 8, 2021, outlines the terms of a settlement in the case Martin v. Boise, aimed at protecting the constitutional rights of homeless individuals in Boise, Idaho. The settlement seeks to prevent the issuance of citations or incarceration for sleeping, sitting, lying down, or camping outdoors on city or public property when no alternative shelter is available [CITE:doc_155309_chunk_00000].
+
+Key principles guiding the settlement include:
+- Under the Eighth Amendment, homeless individuals cannot be penalized for sleeping outdoors when there is no available shelter [CITE:doc_155309_chunk_00000].
+- The determination of available shelter space considers both the existence of available sleeping spaces and the individual's personal circumstances [CITE:doc_155309_chunk_00000].
+- The City commits to not imposing criminal penalties for camping outdoors when no shelter is available, while also recognizing that some individuals may have conditions preventing them from utilizing available shelters [CITE:doc_155309_chunk_00000].
+- The City will enforce ordinances against individuals only when there is available shelter space for them [CITE:doc_155309_chunk_00000].
+- The City aims to explore solutions to reduce homelessness, including increasing affordable housing availability [CITE:doc_155309_chunk_00000].
+
+The agreement stipulates that the City will implement mandatory annual training for police officers on engaging with homeless individuals and enforcing relevant ordinances, with input from the plaintiffs on training materials [CITE:doc_155309_chunk_00000].
+
+Additionally, the City agrees to adopt guidance in the Boise Police Department’s Policy Manual regarding ordinance enforcement. Officers are required to assess available overnight shelter based on individual circumstances before determining if camping or disorderly conduct has occurred [CITE:doc_155309_chunk_00000]. Officers must inform homeless individuals about available shelter, and if they decline, a written warning may be issued [CITE:doc_155309_chunk_00000].
+
+The City established a Homeless Outreach Unit in February 2020, consisting of three full-time employees dedicated to assisting the homeless community with access to resources and services [CITE:doc_155309_chunk_00000]. 
+
+In terms of compliance and recordkeeping, the City will provide the plaintiffs with a written status report within 30 days of executing the settlement and bi-annual records of citations issued under relevant ordinances for the first year [CITE:doc_155309_chunk_00000]. The City agrees to cooperate with requests for public records related to these citations [CITE:doc_155309_chunk_00000].
+
+The agreement includes a Coronavirus 2021 Addendum acknowledging CDC guidance on risks associated with close-quarters contact among homeless individuals during the COVID-19 pandemic, recognizing that individual health circumstances may affect shelter availability [CITE:doc_155309_chunk_00001].
+
+Financially, the City will allocate $1,335,000 in general funds for services to the homeless, with at least 33% designated for temporary overnight shelters to expand shelter infrastructure [CITE:doc_155309_chunk_00001]. The City will also pay $5,000 in damages to the plaintiffs and $435,000 in attorneys’ fees [CITE:doc_155309_chunk_00001].
+
+Upon finalization of the settlement, the plaintiffs will dismiss their action with prejudice, contingent upon the Boise City Council's approval of the settlement terms and the appropriation of funds [CITE:doc_155309_chunk_00001]. The settlement will operate as a general release of the City from all remaining claims, with each party bearing its own attorney’s fees and costs, except as specified [CITE:doc_155309_chunk_00001]. The parties also agree that the settlement will not be confidential [CITE:doc_155309_chunk_00001].
+
+### [Document ID: 154973] Joint Motion for Dismissal with Prejudice (2021-02-08)
+
+On February 8, 2021, Plaintiffs Robert Martin, Pamela Hawkes, and Robert Anderson filed a Joint Motion for Dismissal with Prejudice against the Defendant City of Boise in the United States District Court for the District of Idaho, case number 1:09-cv-0540-REB [CITE:doc_154973_chunk_00000]. The motion was made under Federal Rule of Civil Procedure 41(a) and indicated that the Parties had reached a settlement regarding the claims in the action, as detailed in the attached Settlement Agreement Term Sheet (Exhibit A) and the Settlement Agreement (Exhibit B).
+
+The motion stipulates that the dismissal of all claims is contingent upon several conditions: (1) approval of the Settlement Agreement terms by the City of Boise, (2) appropriation of funds as outlined in the Settlement Agreement, and (3) amendments to the Camping and Disorderly Conduct Ordinances (Exhibits C and D) as agreed upon by the Parties. If these conditions are met, the Court's dismissal will serve as a release of the City and its agents, officers, and employees from all remaining claims in the case [CITE:doc_154973_chunk_00001].
+
+Additionally, the motion states that each party will bear its own costs, expenses, and attorneys’ fees, unless otherwise specified in the Settlement Agreement [CITE:doc_154973_chunk_00002]. The Parties committed to notifying the Court once the conditions of the settlement are fulfilled [CITE:doc_154973_chunk_00003].
+
+The motion was signed by attorneys representing both the Plaintiffs and the Defendant, including Howard A. Belodoff from Idaho Legal Aid Services, Michael E. Bern, Allen M. Gardner, Danielle McCall, and Gemma Donofrio from Latham & Watkins LLP, as well as Eric Tars from the National Homelessness Law Center for the Plaintiffs, and Jayme Sullivan and Scott Muir from the Boise City Attorney’s Office for the Defendant [CITE:doc_154973_chunk_00004].
+
+The document also included a Certificate of Service confirming that the motion was electronically filed and served to relevant parties on the same day [CITE:doc_154973_chunk_00005].
+
+### [Document ID: 154974] Settlement Agreement Term Sheet (2021-02-08)
+
+The document is a Settlement Agreement Term Sheet dated February 8, 2021, related to the case Martin et al v. City of Boise, case number 1:09-cv-00540-REB. The parties involved are the Plaintiffs, Robert Martin, Pamela Hawkes, and Robert Anderson, and the Defendant, the City of Boise [CITE:doc_154974_chunk_00000].
+
+The Term Sheet outlines the essential terms of the final settlement between the Parties. Upon signing the Term Sheet, the Parties agree to a full and final resolution of all claims in the case. The Settlement Agreement, which is attached as Exhibit B, contains the binding terms of the settlement and is enforceable to the fullest extent of the law [CITE:doc_154974_chunk_00000].
+
+Key terms of the settlement include the amendment of certain sections of the Boise City Code: Section 7-3A-2, known as the "Camping Ordinance," and Section 5-2-3, referred to as the "Disorderly Conduct Ordinance." The amendments to these ordinances are included in the Term Sheet as Exhibits C and D, respectively [CITE:doc_154974_chunk_00000].
+
+The Parties have agreed to seek a dismissal of the case by joint stipulation, which is contingent upon several conditions: 
+1. Approval of the Settlement Agreement terms by the City of Boise.
+2. Appropriation of funds by the City of Boise as detailed in the Settlement Agreement.
+3. Amendment of the Camping and Disorderly Conduct Ordinances to align with Exhibits C and D [CITE:doc_154974_chunk_00000].
+
+Once these conditions, referred to as "Conditional Terms," are met, the Parties will execute a full and final release of all claims, including any claims for damages, fees, and costs. The completion of other terms in the Settlement Agreement is not required prior to this release, although they remain binding obligations [CITE:doc_154974_chunk_00000].
+
+Additionally, the Parties have agreed on the payment of Boise Homeless Initiative funds, damages, and attorneys' fees and costs as specified in the Settlement Agreement [CITE:doc_154974_chunk_00000].
+
+### [Document ID: 78285] Statement of Interest of the United States (2015-07-06)
+
+The **Statement of Interest of the United States** was filed on July 6, 2015, in the case of **Janet F. Bell, et al. v. City of Boise, et al.**, Civil Action No. 1:09-cv-540-REB, in the United States District Court for the District of Idaho. The document is authored by various officials from the U.S. Department of Justice, including Vanita Gupta, Principal Deputy Assistant Attorney General, and Wendy Olson, U.S. Attorney for the District of Idaho, among others [CITE:doc_78285_chunk_00000].
+
+The United States highlights the significant issue of homelessness in the U.S., noting that approximately half a million individuals experience homelessness on any given night, with a diverse demographic including children, families, veterans, and the elderly. The causes of homelessness are complex, often linked to economic downturns, health issues, and circumstances beyond individual control, such as domestic violence and trafficking [CITE:doc_78285_chunk_00001].
+
+In this case, the plaintiffs, who are homeless individuals, challenge the enforcement of city ordinances that prohibit camping and sleeping in public spaces. They argue that such enforcement violates their Eighth Amendment rights due to inadequate shelter space in Boise. The plaintiffs contend that criminalizing public sleeping in a city with insufficient shelter constitutes the criminalization of homelessness itself [CITE:doc_78285_chunk_00001].
+
+The parties disagree on the legal framework for analyzing these claims. The plaintiffs reference **Jones v. City of Los Angeles**, which held that enforcing anti-camping ordinances may violate the Eighth Amendment when adequate shelter is unavailable. Conversely, the defendants argue that the plaintiffs' reliance on **Jones** is misplaced and that there has never been a time when a homeless individual was turned away from a shelter due to lack of space [CITE:doc_78285_chunk_00001].
+
+The United States asserts that the **Jones** framework is appropriate for evaluating the plaintiffs' claims. It emphasizes that if sufficient shelter space is unavailable, it becomes impossible for homeless individuals to comply with the ordinances, thereby criminalizing their status as homeless [CITE:doc_78285_chunk_00002].
+
+The U.S. government has a vested interest in this case, as it seeks to ensure justice is fairly applied, particularly to vulnerable populations. The **Office for Access to Justice** was established to address access-to-justice issues, and the **U.S. Interagency Council on Homelessness** coordinates federal efforts to combat homelessness [CITE:doc_78285_chunk_00002].
+
+The document discusses the Eighth Amendment's prohibition against cruel and unusual punishment, referencing **Robinson v. California** and **Powell v. Texas** to illustrate that laws criminalizing a person's status, rather than specific conduct, are unconstitutional. The U.S. argues that criminalizing public sleeping when individuals have no alternative violates this principle [CITE:doc_78285_chunk_00003].
+
+The **Jones** case is highlighted as particularly relevant, as it found that enforcement of a similar ordinance was unconstitutional due to inadequate shelter space, effectively criminalizing the status of homelessness. The U.S. urges the court to adopt this reasoning, asserting that punishing individuals for sleeping in public when they have no other options is tantamount to punishing them for being homeless [CITE:doc_78285_chunk_00004].
+
+The U.S. concludes that if the court finds that homeless individuals cannot secure shelter due to lack of space or restrictions, then enforcing the anti-camping ordinances would violate the Eighth Amendment. The document emphasizes that criminalizing homelessness does not improve public safety and creates additional barriers for individuals seeking to escape homelessness [CITE:doc_78285_chunk_00006].
+
+In summary, the **Statement of Interest of the United States** advocates for the adoption of the **Jones** framework in evaluating the constitutionality of Boise's anti-camping ordinances, highlighting the need to consider the realities of homelessness and the availability of shelter in the context of Eighth Amendment protections.
+
+### [Document ID: 78283] Order [protective order] (2015-01-06)
+
+On January 6, 2015, the United States District Court for the District of Idaho issued an Order regarding a Motion for Protective Order filed by the Defendants in the case of Janet F. Bell, et al. v. City of Boise, et al., Case No. CV 09-540-S-REB. The Defendants sought to limit the scope of the deposition of AnaMarie Guiles, which was scheduled for January 7, 2015. The Court noted that the Plaintiffs had not yet responded to the motion, prompting the issuance of the Order to provide guidance ahead of the deposition [CITE:doc_78283_chunk_00000].
+
+The Court outlined the legal standards governing discovery, referencing Federal Rule of Civil Procedure 26(b)(1), which allows for the discovery of any matter relevant to the subject matter involved in the action. The Court emphasized that relevance is broadly construed at the discovery stage and that evidence may be discoverable even if it is inadmissible at trial, provided it is reasonably calculated to lead to admissible evidence [CITE:doc_78283_chunk_00001].
+
+In its discussion, the Court acknowledged the Defendants' burden to demonstrate specific harm that would justify a protective order. It recognized that extending a deposition beyond relevant questions could create undue burden and expense. The Court noted that the Plaintiffs had previously agreed to limit inquiries regarding the City of Boise’s programs aimed at combating homelessness during the City’s 30(b)(6) deposition. Consequently, the Court applied these same limitations to the deposition of AnaMarie Guiles [CITE:doc_78283_chunk_00001].
+
+However, the Court determined that certain topics regarding the resources available to homeless individuals in Boise were relevant to the Plaintiffs' claims. Specifically, the Plaintiffs could inquire about the number of homeless persons in Boise, whether that number included individuals from surrounding areas, and the capacity of City resources to shelter homeless individuals. These inquiries were deemed likely to lead to the discovery of admissible evidence related to the Plaintiffs' claims that the City’s ordinance and its enforcement were unconstitutional under the Eighth Amendment [CITE:doc_78283_chunk_00001].
+
+Conversely, the Court ruled that inquiries into the operation, management, and funding of the City of Boise’s housing units for low to moderate income residents, as well as the City’s trust administering home loans, were not appropriate for the deposition as they did not appear to lead to the discovery of admissible evidence [CITE:doc_78283_chunk_00001].
+
+The Court expressed confidence that the Plaintiffs’ counsel would appropriately limit their inquiries to relevant areas and avoid questions intended solely to embarrass or harass the Defendants, in accordance with discovery rules [CITE:doc_78283_chunk_00001].
+
+In conclusion, the Court partially granted and partially denied the Defendants' Motion for Protective Order, allowing some inquiries while restricting others, as detailed in the Order. The ruling was issued by Honorable Ronald E. Bush, U.S. Magistrate Judge, on January 6, 2015 [CITE:doc_78283_chunk_00000].
+
+### [Document ID: 78279] Complaint for Injunctive and Declaratory Relief and Monetary Damages (2009-10-22)
+
+The document is a complaint filed on October 22, 2009, in the United States District Court for the District of Idaho, by Plaintiffs Janet F. Bell, Brian S. Carson, Craig Fox, Robert Martin, Lawrence Lee Smith, Robert Anderson, and Pamela S. Hawkes against the City of Boise, the Boise Police Department, and Chief of Police Michael Masterson. The Plaintiffs seek injunctive and declaratory relief, as well as monetary damages, alleging violations of their constitutional rights under the Eighth and Fourteenth Amendments, and corresponding provisions of the Idaho Constitution, due to the enforcement of certain municipal codes that criminalize homelessness [CITE:doc_78279_chunk_00000].
+
+The complaint outlines that Boise has a significant homeless population, estimated between 2,000 and 4,500 individuals on any given night, while local shelters can accommodate only about 300 people, with additional overflow space for approximately 400 more [CITE:doc_78279_chunk_00001]. The Plaintiffs assert that they have been cited and arrested under Boise Municipal Code § 9-10-02, which prohibits camping in public places, and § 6-01-05(A), which prohibits sleeping in public as disorderly conduct. They argue that these laws effectively criminalize homelessness and violate their constitutional rights, as they have no choice but to sleep in public due to the lack of available shelter [CITE:doc_78279_chunk_00002].
+
+Each Plaintiff provides personal accounts of their experiences with law enforcement and the impact of these citations on their lives. For example, Janet F. Bell has received multiple citations for sleeping in public, which has led to a suspended sentence and fear of incarceration if cited again [CITE:doc_78279_chunk_00003]. Brian S. Carson describes being cited for sleeping next to a building after being turned away from shelters, resulting in jail time and financial burdens [CITE:doc_78279_chunk_00002]. Craig Fox, who suffers from arthritis, was cited for sleeping on a park bench while waiting for a shelter to open [CITE:doc_78279_chunk_00002]. Robert Martin has faced multiple citations despite his disabilities and inability to find shelter [CITE:doc_78279_chunk_00002]. Lawrence Lee Smith and Robert Anderson also recount similar experiences of being cited for sleeping in public areas due to the lack of shelter options [CITE:doc_78279_chunk_00002].
+
+The complaint further discusses the broader implications of the enforcement of these ordinances, asserting that they exacerbate the cycle of homelessness by making it difficult for individuals to secure employment and housing due to criminal records stemming from these citations [CITE:doc_78279_chunk_00005]. The Plaintiffs argue that the enforcement practices of the Boise Police Department are part of a policy to drive homeless individuals out of the city, which they claim violates their rights to travel and due process [CITE:doc_78279_chunk_00006].
+
+The Plaintiffs seek a range of remedies, including a temporary restraining order against the enforcement of the cited municipal codes, expungement of records for those unlawfully cited, reimbursement for fines and costs incurred, and a declaration that the enforcement actions violate their constitutional rights [CITE:doc_78279_chunk_00008]. They also request a jury trial [CITE:doc_78279_chunk_00008].
+
+In summary, this complaint highlights the struggles of homeless individuals in Boise, the legal challenges they face due to municipal ordinances, and the constitutional implications of criminalizing homelessness. The Plaintiffs argue that the enforcement of these laws not only violates their rights but also fails to address the underlying issues of homelessness in the city.
+
+### [Document ID: 106771] Order (2019-04-01)
+
+The court document titled "Order" dated April 1, 2019, pertains to the case of Martin v. City of Boise, 920 F.3d 584 (2019), where the plaintiffs, a group of homeless individuals, challenged the constitutionality of Boise's public camping ordinances under the Eighth Amendment. The plaintiffs included Robert Martin, Lawrence Lee Smith, Robert Anderson, Janet F. Bell, Pamela S. Hawkes, and Basil E. Humphrey, who claimed that the ordinances criminalized their necessity to sleep in public spaces due to a lack of available shelter [CITE:doc_106771_chunk_00000].
+
+The Ninth Circuit Court of Appeals addressed the procedural history, noting that the district court had initially granted summary judgment in favor of the City of Boise, which led to the plaintiffs appealing the decision. The Court of Appeals reversed the district court's ruling and remanded the case, asserting that the Eighth Amendment prohibits criminal penalties for sitting, sleeping, or lying outside on public property for homeless individuals who cannot obtain shelter [CITE:doc_106771_chunk_00001].
+
+The court's holdings emphasized that the plaintiffs had standing to pursue their claims, even after the city adopted a protocol not to enforce the public camping ordinance when available shelters were full. The court clarified that the Heck doctrine, which bars certain § 1983 actions based on prior convictions, did not apply to the plaintiffs, as their citations were dismissed before any convictions were obtained [CITE:doc_106771_chunk_00002]. 
+
+The court also highlighted that the Eighth Amendment imposes substantive limits on what can be criminalized, particularly concerning individuals who are homeless and lack alternative sleeping arrangements. It ruled that the enforcement of ordinances criminalizing sleeping in public spaces, when no shelter is available, constitutes cruel and unusual punishment [CITE:doc_106771_chunk_00003].
+
+In terms of procedural posture, the court noted that the plaintiffs sought both retrospective and prospective relief. The majority opinion affirmed the district court's judgment regarding retrospective relief but reversed and remanded concerning prospective relief, allowing the plaintiffs to seek declaratory and injunctive relief against future enforcement of the ordinances [CITE:doc_106771_chunk_00004].
+
+The dissenting opinions expressed concern over the implications of the majority's ruling, arguing that it could hinder local governments' ability to enforce public health and safety laws. The dissenters contended that the majority's interpretation of the Eighth Amendment could lead to unintended consequences, such as preventing local authorities from addressing issues related to homelessness effectively [CITE:doc_106771_chunk_00005].
+
+Overall, the court's decision in Martin v. City of Boise underscores the tension between municipal regulations aimed at managing homelessness and constitutional protections against cruel and unusual punishment, particularly in the context of individuals who lack access to adequate shelter [CITE:doc_106771_chunk_00006].
+
+### [Document ID: 106773] Third Amended Complaint for Declaratory And Injunctive Relief and Monetary Damages (2020-03-10)
+
+The **Third Amended Complaint for Declaratory and Injunctive Relief and Monetary Damages** was filed on March 10, 2020, in the United States District Court for the District of Idaho by plaintiffs Robert Martin, Robert Anderson, and Pamela Hawkes against the City of Boise and Michael Masterson, the Interim Chief of Police [CITE:doc_106773_chunk_00000]. 
+
+### Background
+The plaintiffs allege that Boise has a significant homelessness issue, with hundreds of individuals experiencing homelessness and only about 450 emergency shelter beds available. Many shelters have restrictive policies that limit access based on disabilities or religious requirements, leading individuals to sleep in public areas, which is prohibited under Boise Municipal Code [CITE:doc_106773_chunk_00001]. The plaintiffs claim that the enforcement of these ordinances criminalizes homelessness and violates the Eighth Amendment, which prohibits cruel and unusual punishment.
+
+### Jurisdiction and Venue
+The court has jurisdiction under 28 U.S.C. §§ 1331, 1343(a)(3) and (4), and 1367, as the plaintiffs seek relief under 42 U.S.C. § 1983 for violations of their Eighth Amendment rights [CITE:doc_106773_chunk_00001].
+
+### Plaintiffs' Claims
+1. **Robert Anderson** has been homeless since February 2015 and has received camping citations, which resulted in incarceration and fines he could not afford [CITE:doc_106773_chunk_00001].
+2. **Robert Martin** has experienced homelessness intermittently since he was eighteen and has received multiple citations for sleeping in public places despite being unable to access shelters [CITE:doc_106773_chunk_00002].
+3. **Pamela Hawkes** received multiple camping citations in 2006 and 2007, which led her to leave Boise due to fear of further citations and fines [CITE:doc_106773_chunk_00002].
+
+### Defendants
+The **City of Boise** is a municipal corporation responsible for the actions of its police department. **Michael Masterson**, as Interim Chief of Police, is responsible for enforcing the ordinances that the plaintiffs claim violate their rights [CITE:doc_106773_chunk_00002].
+
+### Factual Allegations
+The complaint details the ordinances that criminalize sleeping outside, specifically Boise City Code § 5-2-3(A) (Disorderly Conduct) and § 7-3A-2(A) (Camping) [CITE:doc_106773_chunk_00003]. The plaintiffs argue that the enforcement of these laws against individuals who lack alternative shelter constitutes cruel and unusual punishment under the Eighth Amendment. They cite the **Martin v. City of Boise** case, which established that punishing individuals for sleeping outside when no shelter is available is unconstitutional [CITE:doc_106773_chunk_00003].
+
+### Shelter Availability
+The complaint outlines the inadequate shelter availability in Boise, noting that shelters often operate at capacity and have strict policies that prevent many individuals from accessing them. For example, the Boise Rescue Mission has policies that can lead to individuals being barred from shelter due to stay limits or religious requirements [CITE:doc_106773_chunk_00006]. 
+
+### Enforcement Practices
+The plaintiffs allege that Boise police routinely target individuals experiencing homelessness for citations, particularly during early morning hours when they are waking up from sleeping outside. This practice is said to contribute to a cycle of homelessness and criminalization [CITE:doc_106773_chunk_00007]. 
+
+### Claims for Relief
+The plaintiffs seek:
+1. An injunction against the enforcement of the ordinances that penalize individuals for sleeping outside when no shelter is available.
+2. A declaration that the enforcement of these ordinances violates the Eighth Amendment.
+3. Monetary damages for the harm caused by these citations and arrests.
+4. Recovery of costs and attorney fees [CITE:doc_106773_chunk_00008].
+
+### Conclusion
+The plaintiffs argue that the enforcement of Boise's camping and disorderly conduct ordinances against individuals experiencing homelessness violates their constitutional rights and perpetuates the cycle of homelessness. They seek judicial relief to prevent further enforcement of these laws under the circumstances where no alternative shelter is available [CITE:doc_106773_chunk_00008].
+
+### [Document ID: 99184] Memorandum Decision and Opinion (2015-09-28)
+
+In the case of Robert Martin and Robert Anderson v. City of Boise, Case No. 1:09-cv-00540-REB, the United States District Court for the District of Idaho issued a Memorandum Decision and Order on September 28, 2015. The case, which has a lengthy procedural history, involves multiple motions, including a Motion for Summary Judgment filed by the Plaintiffs and a Motion for Dispositive Relief filed by the Defendant, the City of Boise [CITE:doc_99184_chunk_00000].
+
+The Plaintiffs, Martin and Anderson, challenge the constitutionality of Boise City Code § 9-10-02 and § 6-01-05(A) (collectively referred to as the "Ordinances"), arguing that they violate the Eighth Amendment's prohibition against cruel and unusual punishment. They seek a declaration that the Ordinances are unconstitutional and a permanent injunction against their enforcement [CITE:doc_99184_chunk_00000]. The City contends that the Plaintiffs lack standing to bring their claims, asserting that the case should be dismissed on that basis, and further argues that even if standing exists, the claims are moot and fail on the merits [CITE:doc_99184_chunk_00000].
+
+The Court examined the standing of both Plaintiffs under Article III of the federal Constitution, which requires an injury-in-fact that is concrete, particularized, and actual or imminent. The Court found that neither Martin nor Anderson demonstrated such an injury [CITE:doc_99184_chunk_00001]. Specifically, the Ordinances state that they are not enforced when a homeless individual is on public property and no overnight shelter is available. As such, the Court concluded that there was no imminent threat of citation for either Plaintiff, as both had access to shelters and had not been cited under the revised Ordinances [CITE:doc_99184_chunk_00001].
+
+Martin, who had moved from Boise to Post Falls, Idaho, expressed concerns about being cited if he returned to Boise and could not find shelter. However, the Court deemed his concerns speculative, noting that he had previously stayed at shelters and could do so again if needed [CITE:doc_99184_chunk_00003]. The Court also highlighted that Martin's fears did not constitute a credible threat of prosecution since the Ordinances would not apply if he could not find shelter due to availability [CITE:doc_99184_chunk_00003].
+
+Similarly, Anderson, who had been homeless but had access to shelters, also lacked standing. Although he expressed concerns about being cited under the Ordinances, the Court found that he had successfully utilized shelters in the past and was willing to do so again [CITE:doc_99184_chunk_00006]. The Court concluded that his worries did not amount to a substantial risk of imminent harm sufficient to establish the injury-in-fact required for standing [CITE:doc_99184_chunk_00006].
+
+Ultimately, the Court ruled that both Plaintiffs lacked standing to pursue their claims, leading to the dismissal of the case for lack of jurisdiction. The Court granted the City’s Motion for Dispositive Relief and denied the Plaintiffs' Motion for Summary Judgment [CITE:doc_99184_chunk_00008]. The Court also addressed several miscellaneous motions, granting some and deeming others moot [CITE:doc_99184_chunk_00008].
+
+In conclusion, the Court's decision emphasized that without a concrete and imminent threat of injury, the Plaintiffs could not establish standing to challenge the enforcement of the Ordinances, resulting in the dismissal of their claims.
+
+### [Document ID: 78327] Revised Second Amended Complaint for Injunctive and Declaratory Relief (2014-07-31)
+
+The Revised Second Amended Complaint for Injunctive and Declaratory Relief was filed on July 31, 2014, in the United States District Court for the District of Idaho, under Case No. 1:09-CV-540-REB. The plaintiffs, Robert Martin, Lawrence Lee Smith, Robert Anderson, Basil E. Humphrey, Pamela S. Hawkes, and Janet F. Bell, are individuals who are homeless and are suing the City of Boise, the Boise Police Department, and Chief of Police Michael Masterson in his official capacity for violations of their constitutional rights, specifically under the Eighth Amendment [CITE:doc_78327_chunk_00000].
+
+The complaint outlines that there is a significant homelessness issue in Boise, with thousands of individuals lacking shelter on any given night. The local shelters can only accommodate approximately 460 people, leading many to sleep in public spaces, which is in violation of Boise Municipal Code ordinances that prohibit "camping" and "disorderly conduct" [CITE:doc_78327_chunk_00000]. The plaintiffs assert that these laws effectively criminalize homelessness, as they are enforced against individuals who have no choice but to sleep in public due to the lack of available shelter [CITE:doc_78327_chunk_00000].
+
+The plaintiffs have faced repeated citations and arrests for sleeping in public, which has resulted in convictions that further complicate their ability to secure employment and housing. For example, Robert Martin has been cited multiple times for sleeping outside shelters when he was unable to find accommodation [CITE:doc_78327_chunk_00001]. Lawrence Lee Smith has also faced similar issues, receiving citations for sleeping in secluded areas and experiencing incarceration as a result [CITE:doc_78327_chunk_00001]. The complaint details the experiences of each plaintiff, illustrating the cycle of homelessness exacerbated by the enforcement of these ordinances [CITE:doc_78327_chunk_00001].
+
+The complaint argues that the enforcement of Boise Municipal Code §§ 9-10-02 and 6-01-05(A) constitutes cruel and unusual punishment under the Eighth Amendment, as it punishes individuals for their status as homeless persons [CITE:doc_78327_chunk_00002]. The plaintiffs seek declaratory and injunctive relief, requesting that the court enjoin the defendants from enforcing these ordinances against individuals sleeping or lying down in public and declare the ordinances unconstitutional [CITE:doc_78327_chunk_00002].
+
+Jurisdiction is established under 28 U.S.C. §§ 1331, 1343(a)(3) and (4), and 1367, as the plaintiffs aim to vindicate rights established by the Eighth Amendment [CITE:doc_78327_chunk_00003]. The complaint also discusses the inadequacies of the shelter system in Boise, noting that many shelters have restrictive policies that prevent certain individuals from accessing services, thereby increasing the number of people who are forced to sleep in public [CITE:doc_78327_chunk_00006].
+
+In summary, the plaintiffs allege that the City of Boise and its police department have a policy and practice of unlawfully enforcing ordinances that criminalize homelessness, which leads to further marginalization and suffering for the homeless population [CITE:doc_78327_chunk_00004]. They seek relief from the court to address these violations and to prevent further enforcement of the cited ordinances against homeless individuals [CITE:doc_78327_chunk_00007].
+
+### [Document ID: 78343] Plaintiff's Motion for Summary Judgment (2015-04-30)
+
+On April 30, 2015, Plaintiffs Robert Anderson and Robert Martin filed a Motion for Summary Judgment in the United States District Court for the District of Idaho, Case No. 1:09-cv-00540-REB, against the City of Boise and other defendants. The motion is supported by a Statement of Undisputed Material Facts, a Memorandum in Support, and a Declaration of Counsel Scott Jones, asserting that there are no material facts in dispute and that the plaintiffs are entitled to judgment as a matter of law [CITE:doc_78343_chunk_00000].
+
+The plaintiffs, both homeless, contend that the City of Boise's enforcement of its Municipal Ordinances—specifically the Camping Ordinance and the Disorderly Conduct Ordinance—criminalizes their status as homeless individuals, which violates the Eighth Amendment of the U.S. Constitution. They argue that the ordinances effectively punish them for sleeping outside when there are insufficient shelter beds available [CITE:doc_78343_chunk_00001].
+
+The plaintiffs' expert, Dr. David Kent, concluded that homelessness is often an involuntary status caused by factors such as poverty, mental illness, and physical disabilities, with at least 75% of homeless individuals in Boise suffering from such conditions [CITE:doc_78343_chunk_00002]. The plaintiffs have been cited under these ordinances: Anderson for camping and Martin for both disorderly conduct and camping [CITE:doc_78343_chunk_00001].
+
+The City of Boise has acknowledged that the annual Point-in-Time (PIT) Survey, which counts homeless individuals, is the primary method for estimating homelessness in the area. The survey has shown a consistent shortage of emergency shelter beds compared to the number of homeless individuals, with Dr. Burt's report indicating that the number of homeless individuals has outnumbered available beds by significant margins from 2011 to 2014 [CITE:doc_78343_chunk_00002].
+
+The plaintiffs argue that the enforcement of the Municipal Ordinances against them constitutes a violation of their Eighth Amendment rights, particularly when there are no available shelter beds. They assert that the ordinances have been enforced against individuals merely for resting or sleeping outside, without consideration of their circumstances or the availability of shelter [CITE:doc_78343_chunk_00003].
+
+The plaintiffs also highlight that many shelter beds in Boise are provided by religious organizations, which impose additional requirements that may not accommodate all homeless individuals, particularly those with disabilities or religious objections. They argue that this creates a situation where the shelters cannot be considered "available" under the Eighth Amendment analysis [CITE:doc_78343_chunk_00004].
+
+In conclusion, the plaintiffs request declaratory and injunctive relief, asserting that the Municipal Ordinances, as applied to them and others in similar situations, are unconstitutional under the Eighth Amendment due to the lack of available shelter beds and the coercive nature of religious shelter requirements [CITE:doc_78343_chunk_00005]. They emphasize the need for the Court to clarify their rights and prevent future violations [CITE:doc_78343_chunk_00006].
+
+### [Document ID: 99185] Opinion (2018-09-04)
+
+On September 4, 2018, the United States Court of Appeals for the Ninth Circuit issued an opinion in the case of Robert Martin et al. v. City of Boise, No. 15-35845, concerning the enforcement of city ordinances against homeless individuals. The plaintiffs, six current or former residents of Boise who are or were homeless, claimed that citations issued under the City’s Camping and Disorderly Conduct Ordinances violated the Eighth Amendment's prohibition on cruel and unusual punishment. They sought damages under 42 U.S.C. § 1983, and two plaintiffs requested prospective declaratory and injunctive relief against future enforcement of these ordinances [CITE:doc_99185_chunk_00000].
+
+The panel affirmed in part and reversed in part the district court's summary judgment. The court noted that in 2014, the City amended its ordinances to prohibit enforcement against homeless individuals on nights when no shelter had available space. The panel determined that two plaintiffs had standing to pursue prospective relief due to a genuine issue of material fact regarding their risk of prosecution on nights when they could not access shelters [CITE:doc_99185_chunk_00001].
+
+The court held that the Eighth Amendment prohibits the enforcement of laws criminalizing sleeping outdoors for homeless individuals who have no access to alternative shelter. It concluded that as long as there are more homeless individuals than available shelter beds, the government cannot criminalize sleeping outdoors, as it would be punishing individuals for a condition they cannot control [CITE:doc_99185_chunk_00002].
+
+The plaintiffs had previously been convicted under the Camping Ordinance, which criminalizes using public property for camping, and the Disorderly Conduct Ordinance, which prohibits sleeping in public places without permission. The plaintiffs sought retrospective relief for these convictions, but the district court had granted summary judgment to the City, citing the Rooker-Feldman doctrine and the Heck v. Humphrey doctrine, which bars claims that would imply the invalidity of a prior conviction unless that conviction has been overturned [CITE:doc_99185_chunk_00003].
+
+On appeal, the Ninth Circuit found that while most retrospective claims were barred by Heck, two plaintiffs—Robert Martin and Pamela Hawkes—were eligible for retrospective relief concerning citations that were dismissed before any conviction occurred. The court clarified that the Eighth Amendment applies to the criminalization of conduct that is an unavoidable consequence of being homeless, such as sleeping in public when no shelter is available [CITE:doc_99185_chunk_00004].
+
+The court also addressed the issue of standing for prospective relief, concluding that Martin and Anderson had demonstrated a credible threat of future prosecution under the ordinances, thus allowing them to seek injunctive relief. The panel emphasized that the 2014 amendments to the ordinances did not eliminate the risk of prosecution since individuals could still be turned away from shelters for reasons other than capacity, such as exceeding stay limits or failing to participate in mandatory religious programs [CITE:doc_99185_chunk_00005].
+
+In conclusion, the Ninth Circuit affirmed the district court's judgment regarding retrospective relief for most plaintiffs but reversed and remanded for further consideration of prospective relief and the specific retrospective claims of Martin and Hawkes. The court's ruling underscored the constitutional protections against punishing individuals for their status as homeless, particularly when no adequate shelter options are available [CITE:doc_99185_chunk_00006].
+
+
+## Docket Entries
+428 docket entries available.

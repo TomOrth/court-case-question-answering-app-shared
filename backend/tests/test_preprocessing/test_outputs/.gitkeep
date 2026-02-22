@@ -1,0 +1,4 @@
+# Test outputs will be saved here automatically when tests run
+
+This directory is created automatically by the tests.
+Each test saves its results here for manual inspection.

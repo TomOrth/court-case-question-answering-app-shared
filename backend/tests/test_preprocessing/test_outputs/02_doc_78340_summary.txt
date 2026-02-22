@@ -1,0 +1,18 @@
+Document ID: 78340
+Title: Memorandum Decision and Order on Defendants' Second Motion for Summary Judgment
+Date: 2014-01-27
+Chunks: 12
+
+================================================================================
+
+The United States District Court for the District of Idaho issued a Memorandum Decision and Order on January 27, 2014, regarding the Defendants' Second Motion for Summary Judgment in the case of Janet F. Bell et al. v. City of Boise et al., Case No. 1:09-cv-00540-REB [CITE:doc_78340_chunk_00000]. The plaintiffs, who are or were homeless individuals in Boise, allege that the enforcement of Boise City ordinances criminalizes their status as homeless by prohibiting camping and sleeping in public spaces [CITE:doc_78340_chunk_00001]. 
+
+The Defendants, which include the City of Boise, the Boise Police Department, and Police Chief Michael Masterson, sought summary judgment on the grounds that the enforcement actions do not violate the Eighth Amendment's prohibition on cruel and unusual punishment [CITE:doc_78340_chunk_00001]. The court previously dismissed the plaintiffs' claims on jurisdictional and mootness grounds, but the Ninth Circuit Court of Appeals reversed that decision, allowing the case to proceed [CITE:doc_78340_chunk_00001].
+
+In the current ruling, the court determined that the plaintiffs' Eighth Amendment claims are largely barred by the "favorable-termination" requirement established in Heck v. Humphrey, which mandates that a plaintiff must prove their conviction has been reversed or invalidated before pursuing damages for alleged unconstitutional actions related to that conviction [CITE:doc_78340_chunk_00001]. The court noted that the plaintiffs could have raised their Eighth Amendment arguments as defenses in their criminal prosecutions, and a ruling in their favor would imply the invalidity of their prior convictions [CITE:doc_78340_chunk_00003].
+
+Consequently, the court dismissed all claims seeking expungement of records, reimbursement for fines, and damages related to past events that would imply the invalidity of the plaintiffs' convictions [CITE:doc_78340_chunk_00001]. However, the court allowed the plaintiffs' request for a declaratory judgment to proceed, which seeks to declare that the enforcement of the ordinances violates their rights under the Eighth Amendment and the Idaho Constitution [CITE:doc_78340_chunk_00001]. 
+
+The court emphasized that this declaratory relief is not barred by res judicata, as the claims for prospective relief differ from the retrospective claims that were dismissed [CITE:doc_78340_chunk_00001]. The plaintiffs were instructed to file an Amended Complaint that specifically states the remaining claim for declaratory relief, omitting the dismissed claims [CITE:doc_78340_chunk_00001].
+
+In summary, the court granted the Defendants' motion in part, dismissing most of the plaintiffs' claims while allowing their request for declaratory relief to proceed, requiring the plaintiffs to file an Amended Complaint by February 25, 2014 [CITE:doc_78340_chunk_00001].

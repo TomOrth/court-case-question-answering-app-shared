@@ -1,0 +1,144 @@
+{
+  "case_id": 14919,
+  "preprocessing_result": {
+    "case_id": 14919,
+    "case_name": "Bell v. City of Boise",
+    "status": "success",
+    "documents_count": 19,
+    "chunks_count": 165,
+    "embeddings_count": 165,
+    "docket_entries_count": 428,
+    "message": "Successfully preprocessed case 14919"
+  },
+  "database_verification": {
+    "case": {
+      "id": 14919,
+      "name": "Bell v. City of Boise",
+      "status": "ready",
+      "court": "District of Idaho",
+      "filing_date": "2009-10-22",
+      "preprocessed_at": "2025-12-27T23:56:33.428636+00:00"
+    },
+    "raw_data_exists": true,
+    "documents": [
+      {
+        "doc_id": 78342,
+        "title": "Memorandum Decision and Order on Defendants' Motion to Strike and Dismiss Portions of the Second Amended Complaint",
+        "total_chunks": 4,
+        "doc_date": "2014-07-16"
+      },
+      {
+        "doc_id": 78326,
+        "title": "Opinion [Appellate decision reversing and remanding order for summary disposition]",
+        "total_chunks": 8,
+        "doc_date": "2013-03-07"
+      },
+      {
+        "doc_id": 78277,
+        "title": "Docket [PACER]",
+        "total_chunks": 32,
+        "doc_date": "2020-05-26"
+      },
+      {
+        "doc_id": 78281,
+        "title": "Memorandum Decision and Order",
+        "total_chunks": 8,
+        "doc_date": "2011-07-06"
+      },
+      {
+        "doc_id": 78340,
+        "title": "Memorandum Decision and Order on Defendants' Second Motion for Summary Judgment",
+        "total_chunks": 12,
+        "doc_date": "2014-01-27"
+      },
+      {
+        "doc_id": 154972,
+        "title": "Joint Stipulation to Dismiss with Prejudice",
+        "total_chunks": 1,
+        "doc_date": "2021-03-01"
+      },
+      {
+        "doc_id": 154910,
+        "title": "Order of Dismissal with Prejudice",
+        "total_chunks": 1,
+        "doc_date": "2021-03-02"
+      },
+      {
+        "doc_id": 155309,
+        "title": "Exhibit B - Settlement Agreement",
+        "total_chunks": 2,
+        "doc_date": "2021-02-08"
+      },
+      {
+        "doc_id": 154973,
+        "title": "Joint Motion for Dismissal with Prejudice",
+        "total_chunks": 1,
+        "doc_date": "2021-02-08"
+      },
+      {
+        "doc_id": 154974,
+        "title": "Settlement Agreement Term Sheet",
+        "total_chunks": 1,
+        "doc_date": "2021-02-08"
+      },
+      {
+        "doc_id": 78285,
+        "title": "Statement of Interest of the United States",
+        "total_chunks": 7,
+        "doc_date": "2015-07-06"
+      },
+      {
+        "doc_id": 78283,
+        "title": "Order [protective order]",
+        "total_chunks": 2,
+        "doc_date": "2015-01-06"
+      },
+      {
+        "doc_id": 78279,
+        "title": "Complaint for Injunctive and Declaratory Relief and Monetary Damages",
+        "total_chunks": 9,
+        "doc_date": "2009-10-22"
+      },
+      {
+        "doc_id": 106771,
+        "title": "Order",
+        "total_chunks": 23,
+        "doc_date": "2019-04-01"
+      },
+      {
+        "doc_id": 106773,
+        "title": "Third Amended Complaint for Declaratory And Injunctive Relief and Monetary Damages",
+        "total_chunks": 9,
+        "doc_date": "2020-03-10"
+      },
+      {
+        "doc_id": 99184,
+        "title": "Memorandum Decision and Opinion",
+        "total_chunks": 9,
+        "doc_date": "2015-09-28"
+      },
+      {
+        "doc_id": 78327,
+        "title": "Revised Second Amended Complaint for Injunctive and Declaratory Relief",
+        "total_chunks": 8,
+        "doc_date": "2014-07-31"
+      },
+      {
+        "doc_id": 78343,
+        "title": "Plaintiff's Motion for Summary Judgment",
+        "total_chunks": 14,
+        "doc_date": "2015-04-30"
+      },
+      {
+        "doc_id": 99185,
+        "title": "Opinion",
+        "total_chunks": 14,
+        "doc_date": "2018-09-04"
+      }
+    ],
+    "chunks_count": 165,
+    "embeddings_count": 165,
+    "docket_entries_count": 428,
+    "initial_context_length": 65334
+  }
+}

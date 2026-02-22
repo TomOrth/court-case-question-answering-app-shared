@@ -1,0 +1,30 @@
+Document ID: 78342
+Title: Memorandum Decision and Order on Defendants' Motion to Strike and Dismiss Portions of the Second Amended Complaint
+Date: 2014-07-16
+Chunks: 4
+
+================================================================================
+
+On July 16, 2014, the United States District Court for the District of Idaho issued a Memorandum Decision and Order regarding the Defendants' Motion to Strike and Dismiss Portions of the Plaintiffs' Second Amended Complaint in the case of Bell et al. v. City of Boise et al., Case No. 1:09-cv-00540-REB [CITE:doc_78342_chunk_00000].
+
+**Background:**
+The Plaintiffs, a group of individuals who are or were homeless in Boise, Idaho, allege that the Defendants, which include the City of Boise, the Boise Police Department, and Chief of Police Michael Masterson, have criminalized homelessness through the enforcement of certain city ordinances. The ordinances in question include the "Camping Ordinance" and the "Sleeping Ordinance," which the Plaintiffs argue violate their civil rights [CITE:doc_78342_chunk_00001].
+
+The Defendants filed a motion to dismiss the Plaintiffs' First Claim for Relief under 42 U.S.C. § 1983 and to strike allegations related to the enforcement of Boise City Code § 13-03-05(E), known as the "Park After Dark" ordinance. The Court granted the motion in part and denied it in part, requiring the Plaintiffs to remove certain claims and allegations from their Second Amended Complaint [CITE:doc_78342_chunk_00001].
+
+**Discussion:**
+1. **Plaintiffs’ § 1983 Claim:**
+   The Defendants contended that the Plaintiffs' § 1983 claim was barred by the precedent set in Heck v. Humphrey, which requires that a plaintiff must have their conviction overturned before they can claim damages for wrongful imprisonment. The Court found that the Plaintiffs' claims were based on their convictions under the challenged ordinances, which had not been reversed or called into question. Therefore, the Court ruled that the Heck bar applied, and the Plaintiffs could not seek damages or other relief that would imply the invalidity of their convictions [CITE:doc_78342_chunk_00001].
+
+   However, the Court allowed the Plaintiffs to assert a § 1983 claim for prospective declaratory and injunctive relief, provided they could support such a claim with legal authority. The Plaintiffs referenced two cases, Steffel v. Thompson and Vasquez v. Rackauckas, but the Court determined that these cases did not provide sufficient authority to overcome the Heck bar established in Wilkinson v. Dotson [CITE:doc_78342_chunk_00001].
+
+2. **Allegations Related to Boise City Code § 13-03-05(E):**
+   The Defendants sought to strike all allegations related to the Park After Dark ordinance, arguing that these claims were new and had not been previously raised. The Court agreed, noting that the Plaintiffs had not sought permission to amend their complaint after the deadline for amendments had passed, nor had they demonstrated good cause for doing so. The Court emphasized that the Plaintiffs were attempting to introduce a new claim without the necessary procedural steps [CITE:doc_78342_chunk_00002].
+
+3. **Other New Factual Allegations:**
+   The Court found that while some new factual allegations in the Second Amended Complaint, such as updates on the Plaintiffs' health and statistics about Boise's homeless population, were appropriate, the allegations related to the Park After Dark ordinance should be stricken. The Court clarified that evidence regarding the ordinance could still be presented at trial if relevant to the claims properly raised [CITE:doc_78342_chunk_00003].
+
+**Conclusion & Order:**
+The Court granted the Defendants' motion in part, striking the § 1983 claim and the demand for a jury trial from the Second Amended Complaint. Additionally, any allegations related to the Park After Dark ordinance were also ordered to be removed. The Plaintiffs were instructed to file a Revised Second Amended Complaint by July 31, 2014, removing all stricken matters without altering any allegations or introducing new claims. The parties were also directed to submit a new stipulated litigation plan by August 7, 2014, to propose deadlines for the case going forward [CITE:doc_78342_chunk_00003]. 
+
+The Court indicated that some additional discovery would be allowed, but it would be limited to the time period from the Ninth Circuit’s remand to the present, with a preference for an expedited schedule to facilitate a timely trial [CITE:doc_78342_chunk_00003].

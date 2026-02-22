@@ -1,0 +1,29 @@
+Document ID: 78281
+Title: Memorandum Decision and Order
+Date: 2011-07-06
+Chunks: 8
+
+================================================================================
+
+The United States District Court for the District of Idaho issued a Memorandum Decision and Order on July 6, 2011, regarding case CV 09-540-S-REB, involving plaintiffs Janet F. Bell, Brian S. Carson, Craig Fox, Robert Martin, Lawrence Lee Smith, Robert Anderson, Pamela S. Hawkes, Jonathon Leigh Miller, James M. Godfrey, Basil E. Humphrey, and Kirk Ross against defendants City of Boise, Boise Police Department, and Chief of Police Michael Masterson [CITE:doc_78281_chunk_00000].
+
+**Background:**
+The plaintiffs, who are or were homeless individuals in Boise, alleged that the defendants enforced city ordinances against camping and sleeping in public spaces to drive the homeless out of the city. The ordinances in question are Boise City Code §§ 9-10-02 (Camping Ordinance) and 6-01-05(A) (Sleeping Ordinance) [CITE:doc_78281_chunk_00001]. The Camping Ordinance criminalizes the use of public property for dwelling or lodging, while the Sleeping Ordinance prohibits sleeping in any location without the owner's permission [CITE:doc_78281_chunk_00001].
+
+The plaintiffs claimed that they were cited and convicted under these ordinances, alleging that the enforcement practices effectively criminalized homelessness and penalized them for basic necessities of life, such as sleeping [CITE:doc_78281_chunk_00001]. They sought declaratory and injunctive relief, along with monetary damages under 42 U.S.C. § 1983, arguing that the enforcement of these ordinances violated their Eighth Amendment rights and other constitutional protections [CITE:doc_78281_chunk_00001].
+
+**Court's Analysis:**
+The court analyzed the claims based on established legal precedents, including the U.S. Supreme Court's ruling in Robinson v. California, which prohibits punishing individuals for their status, such as homelessness [CITE:doc_78281_chunk_00002]. The court noted that the Ninth Circuit had previously ruled against similar ordinances that criminalized innocent acts like sleeping in public when no shelter was available [CITE:doc_78281_chunk_00002].
+
+However, the court found that the plaintiffs failed to demonstrate that they had no choice but to be present in public spaces due to a lack of shelter. Evidence indicated that the City of Boise provided safe harbor in parks during the day and had a directive in place to prevent citations at night when shelter space was available [CITE:doc_78281_chunk_00004]. The court concluded that the city's enforcement policies were reasonable and did not violate the Eighth Amendment or other constitutional rights [CITE:doc_78281_chunk_00004].
+
+**Rooker-Feldman Doctrine:**
+The court ruled that the plaintiffs' claims for retrospective relief were barred by the Rooker-Feldman doctrine, which prevents federal courts from reviewing state court judgments. This included claims for damages related to fines and criminal records resulting from state court convictions [CITE:doc_78281_chunk_00003]. The court stated that granting such relief would undermine the state court's jurisdiction and serve as a de facto appeal from state court decisions [CITE:doc_78281_chunk_00003].
+
+**Mootness of Prospective Relief:**
+The court found that the plaintiffs' claims for prospective relief were largely moot due to the Boise Police Department's Special Order, which clarified that the Camping and Sleeping Ordinances would not be enforced when shelter space was unavailable [CITE:doc_78281_chunk_00004]. The court noted that the city had taken measures to ensure that homeless individuals would not be cited for simply being present in public spaces when no shelter was available [CITE:doc_78281_chunk_00004].
+
+**Conclusion:**
+The court granted the defendants' Motion for Summary Judgment, dismissing the plaintiffs' Amended Complaint. The court also deemed the defendants' Motion to Dismiss Plaintiff Smith and Motion to Strike as moot [CITE:doc_78281_chunk_00006]. The decision did not prevent the plaintiffs from bringing future actions if the enforcement of the ordinances did not align with the Special Order's intentions [CITE:doc_78281_chunk_00006].
+
+The ruling underscores the balance between municipal regulations and the rights of homeless individuals, emphasizing the need for cities to provide adequate shelter options while enforcing public safety ordinances.

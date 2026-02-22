@@ -1,0 +1,20 @@
+Document ID: 78343
+Title: Plaintiff's Motion for Summary Judgment
+Date: 2015-04-30
+Chunks: 14
+
+================================================================================
+
+On April 30, 2015, Plaintiffs Robert Anderson and Robert Martin filed a Motion for Summary Judgment in the United States District Court for the District of Idaho, Case No. 1:09-cv-00540-REB, against the City of Boise and other defendants. The motion is supported by a Statement of Undisputed Material Facts, a Memorandum in Support, and a Declaration of Counsel Scott Jones, asserting that there are no material facts in dispute and that the plaintiffs are entitled to judgment as a matter of law [CITE:doc_78343_chunk_00000].
+
+The plaintiffs, both homeless, contend that the City of Boise's enforcement of its Municipal Ordinances—specifically the Camping Ordinance and the Disorderly Conduct Ordinance—criminalizes their status as homeless individuals, which violates the Eighth Amendment of the U.S. Constitution. They argue that the ordinances effectively punish them for sleeping outside when there are insufficient shelter beds available [CITE:doc_78343_chunk_00001].
+
+The plaintiffs' expert, Dr. David Kent, concluded that homelessness is often an involuntary status caused by factors such as poverty, mental illness, and physical disabilities, with at least 75% of homeless individuals in Boise suffering from such conditions [CITE:doc_78343_chunk_00002]. The plaintiffs have been cited under these ordinances: Anderson for camping and Martin for both disorderly conduct and camping [CITE:doc_78343_chunk_00001].
+
+The City of Boise has acknowledged that the annual Point-in-Time (PIT) Survey, which counts homeless individuals, is the primary method for estimating homelessness in the area. The survey has shown a consistent shortage of emergency shelter beds compared to the number of homeless individuals, with Dr. Burt's report indicating that the number of homeless individuals has outnumbered available beds by significant margins from 2011 to 2014 [CITE:doc_78343_chunk_00002].
+
+The plaintiffs argue that the enforcement of the Municipal Ordinances against them constitutes a violation of their Eighth Amendment rights, particularly when there are no available shelter beds. They assert that the ordinances have been enforced against individuals merely for resting or sleeping outside, without consideration of their circumstances or the availability of shelter [CITE:doc_78343_chunk_00003].
+
+The plaintiffs also highlight that many shelter beds in Boise are provided by religious organizations, which impose additional requirements that may not accommodate all homeless individuals, particularly those with disabilities or religious objections. They argue that this creates a situation where the shelters cannot be considered "available" under the Eighth Amendment analysis [CITE:doc_78343_chunk_00004].
+
+In conclusion, the plaintiffs request declaratory and injunctive relief, asserting that the Municipal Ordinances, as applied to them and others in similar situations, are unconstitutional under the Eighth Amendment due to the lack of available shelter beds and the coercive nature of religious shelter requirements [CITE:doc_78343_chunk_00005]. They emphasize the need for the Court to clarify their rights and prevent future violations [CITE:doc_78343_chunk_00006].

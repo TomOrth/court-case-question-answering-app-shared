@@ -1,0 +1,20 @@
+Document ID: 99184
+Title: Memorandum Decision and Opinion
+Date: 2015-09-28
+Chunks: 9
+
+================================================================================
+
+In the case of Robert Martin and Robert Anderson v. City of Boise, Case No. 1:09-cv-00540-REB, the United States District Court for the District of Idaho issued a Memorandum Decision and Order on September 28, 2015. The case, which has a lengthy procedural history, involves multiple motions, including a Motion for Summary Judgment filed by the Plaintiffs and a Motion for Dispositive Relief filed by the Defendant, the City of Boise [CITE:doc_99184_chunk_00000].
+
+The Plaintiffs, Martin and Anderson, challenge the constitutionality of Boise City Code § 9-10-02 and § 6-01-05(A) (collectively referred to as the "Ordinances"), arguing that they violate the Eighth Amendment's prohibition against cruel and unusual punishment. They seek a declaration that the Ordinances are unconstitutional and a permanent injunction against their enforcement [CITE:doc_99184_chunk_00000]. The City contends that the Plaintiffs lack standing to bring their claims, asserting that the case should be dismissed on that basis, and further argues that even if standing exists, the claims are moot and fail on the merits [CITE:doc_99184_chunk_00000].
+
+The Court examined the standing of both Plaintiffs under Article III of the federal Constitution, which requires an injury-in-fact that is concrete, particularized, and actual or imminent. The Court found that neither Martin nor Anderson demonstrated such an injury [CITE:doc_99184_chunk_00001]. Specifically, the Ordinances state that they are not enforced when a homeless individual is on public property and no overnight shelter is available. As such, the Court concluded that there was no imminent threat of citation for either Plaintiff, as both had access to shelters and had not been cited under the revised Ordinances [CITE:doc_99184_chunk_00001].
+
+Martin, who had moved from Boise to Post Falls, Idaho, expressed concerns about being cited if he returned to Boise and could not find shelter. However, the Court deemed his concerns speculative, noting that he had previously stayed at shelters and could do so again if needed [CITE:doc_99184_chunk_00003]. The Court also highlighted that Martin's fears did not constitute a credible threat of prosecution since the Ordinances would not apply if he could not find shelter due to availability [CITE:doc_99184_chunk_00003].
+
+Similarly, Anderson, who had been homeless but had access to shelters, also lacked standing. Although he expressed concerns about being cited under the Ordinances, the Court found that he had successfully utilized shelters in the past and was willing to do so again [CITE:doc_99184_chunk_00006]. The Court concluded that his worries did not amount to a substantial risk of imminent harm sufficient to establish the injury-in-fact required for standing [CITE:doc_99184_chunk_00006].
+
+Ultimately, the Court ruled that both Plaintiffs lacked standing to pursue their claims, leading to the dismissal of the case for lack of jurisdiction. The Court granted the City’s Motion for Dispositive Relief and denied the Plaintiffs' Motion for Summary Judgment [CITE:doc_99184_chunk_00008]. The Court also addressed several miscellaneous motions, granting some and deeming others moot [CITE:doc_99184_chunk_00008].
+
+In conclusion, the Court's decision emphasized that without a concrete and imminent threat of injury, the Plaintiffs could not establish standing to challenge the enforcement of the Ordinances, resulting in the dismissal of their claims.

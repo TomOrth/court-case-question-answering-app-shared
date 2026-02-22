@@ -1,0 +1,529 @@
+{
+  "case_id": 14919,
+  "case_name": "Bell v. City of Boise",
+  "court": "District of Idaho",
+  "filing_date": "2009-10-22",
+  "documents": [
+    {
+      "doc_id": 78342,
+      "title": "Memorandum Decision and Order on Defendants' Motion to Strike and Dismiss Portions of the Second Amended Complaint",
+      "doc_date": "2014-07-16",
+      "chunks_count": 4,
+      "summary_length": 4269,
+      "summary_preview": "On July 16, 2014, the United States District Court for the District of Idaho issued a Memorandum Decision and Order regarding the Defendants' Motion to Strike and Dismiss Portions of the Plaintiffs' Second Amended Complaint in the case of Bell et al. v. City of Boise et al., Case No. 1:09-cv-00540-R...",
+      "sample_chunks": [
+        {
+          "chunk_id": "doc_78342_chunk_00000",
+          "chunk_index": 0,
+          "text_preview": "UNITED STATES DISTRICT COURT\nDISTRICT OF IDAHO\nJANET F. BELL, BRIAN S. CARSON,\nROBERT MARTIN, LAWRENCE LEE\nSMITH, ROBERT ANDERSON, PAMELA S. Case No. ...",
+          "has_embedding": true,
+          "embedding_dimensions": 1536
+        },
+        {
+          "chunk_id": "doc_78342_chunk_00001",
+          "chunk_index": 1,
+          "text_preview": "§ 1983 claim for prospective declaratory and injunctive relief, despite the Court’s ruling\nthat Heck bars all other relief requested under § 1983, if ...",
+          "has_embedding": true,
+          "embedding_dimensions": 1536
+        },
+        {
+          "chunk_id": "doc_78342_chunk_00002",
+          "chunk_index": 2,
+          "text_preview": "argument is focused on whether these allegations may be stricken under the standards of\nRule 12(f), the proper focus is on Rule 16(f) because the amen...",
+          "has_embedding": true,
+          "embedding_dimensions": 1536
+        }
+      ]
+    },
+    {
+      "doc_id": 78326,
+      "title": "Opinion [Appellate decision reversing and remanding order for summary disposition]",
+      "doc_date": "2013-03-07",
+      "chunks_count": 8,
+      "summary_length": 3403,
+      "summary_preview": "The United States Court of Appeals for the Ninth Circuit issued an opinion on March 7, 2013, reversing and remanding a district court's order for summary disposition in the case of Bell v. City of Boise, No. 11-35674. The plaintiffs, Janet F. Bell, Brian S. Carson, Robert Martin, Lawrence Lee Smith,...",
+      "sample_chunks": [
+        {
+          "chunk_id": "doc_78326_chunk_00000",
+          "chunk_index": 0,
+          "text_preview": "CasCe:a 1s1e- 315:0697-4c v -  0 0035/4007-/R2E01B3     D   o  c  u ImDe: n8t5 142025 7  6F i l e  dD 0kt3E/0n7tr/y1:3 3  0 P   a  gPea 1g eo:f  12 2o...",
+          "has_embedding": true,
+          "embedding_dimensions": 1536
+        },
+        {
+          "chunk_id": "doc_78326_chunk_00001",
+          "chunk_index": 1,
+          "text_preview": "CasCe:a 1s1e- 315:0697-4c v -  0 0035/4007-/R2E01B3     D   o  c  u ImDe: n8t5 142025 7  6F i l e  dD 0kt3E/0n7tr/y1:3 3  0 P   a  gPea 5g eo:f  52 2o...",
+          "has_embedding": true,
+          "embedding_dimensions": 1536
+        },
+        {
+          "chunk_id": "doc_78326_chunk_00002",
+          "chunk_index": 2,
+          "text_preview": "CasCe:a 1s1e- 315:0697-4c v -  0 0035/4007-/R2E01B3     D   o  c  u ImDe: n8t5 142025 7  6F i l e  dD 0kt3E/0n7tr/y1:3 3  0 P   a  gPea 8g eo:f  82 2o...",
+          "has_embedding": true,
+          "embedding_dimensions": 1536
+        }
+      ]
+    },
+    {
+      "doc_id": 78277,
+      "title": "Docket [PACER]",
+      "doc_date": "2020-05-26",
+      "chunks_count": 32,
+      "summary_length": 2657,
+      "summary_preview": "The case Martin et al v. City of Boise, Idaho et al, filed on October 22, 2009, in the U.S. District Court for the District of Idaho, involves multiple plaintiffs, including Janet F. Bell, Ronald Anderson, Brian S. Carson, Robert Martin, Lawrence Lee Smith, Pamela Hawkes, Craig Fox, and others, agai...",
+      "sample_chunks": [
+        {
+          "chunk_id": "doc_78277_chunk_00000",
+          "chunk_index": 0,
+          "text_preview": "Case 1:09-cv-540   Document <docnum>   Filed <datefiled>   Page 1 of 46\nCONMAG,LCKS,PROTO,REOPEN,RFSETL\nU.S. District Court\nDistrict of Idaho (LIVE Da...",
+          "has_embedding": true,
+          "embedding_dimensions": 1536
+        },
+        {
+          "chunk_id": "doc_78277_chunk_00001",
+          "chunk_index": 1,
+          "text_preview": "Case 1:09-cv-540   Document <docnum>   Filed <datefiled>   Page 6 of 46\nTERMINATED: 09/03/2010\nATTORNEY TO BE NOTICED\nKaren E Cunningham\n(See above fo...",
+          "has_embedding": true,
+          "embedding_dimensions": 1536
+        },
+        {
+          "chunk_id": "doc_78277_chunk_00002",
+          "chunk_index": 2,
+          "text_preview": "Case 1:09-cv-540   Document <docnum>   Filed <datefiled>   Page 11 of 46\nPRO HAC VICE\nDaniel I Levy\n(See above for address)\nTERMINATED: 08/12/2015\nPRO...",
+          "has_embedding": true,
+          "embedding_dimensions": 1536
+        }
+      ]
+    },
+    {
+      "doc_id": 78281,
+      "title": "Memorandum Decision and Order",
+      "doc_date": "2011-07-06",
+      "chunks_count": 8,
+      "summary_length": 4291,
+      "summary_preview": "The United States District Court for the District of Idaho issued a Memorandum Decision and Order on July 6, 2011, regarding case CV 09-540-S-REB, involving plaintiffs Janet F. Bell, Brian S. Carson, Craig Fox, Robert Martin, Lawrence Lee Smith, Robert Anderson, Pamela S. Hawkes, Jonathon Leigh Mill...",
+      "sample_chunks": [
+        {
+          "chunk_id": "doc_78281_chunk_00000",
+          "chunk_index": 0,
+          "text_preview": "UNITED STATES DISTRICT COURT\nDISTRICT OF IDAHO\nJANET F. BELL, BRIAN S. CARSON,  Case No.:  CV 09-540-S-REB\nCRAIG FOX, ROBERT MARTIN,\nLAWRENCE LEE SMIT...",
+          "has_embedding": true,
+          "embedding_dimensions": 1536
+        },
+        {
+          "chunk_id": "doc_78281_chunk_00001",
+          "chunk_index": 1,
+          "text_preview": "D. Status Offense Case Law \nThe United States Supreme Court has held that applying criminal laws to punish\nthe involuntary status of an individual is ...",
+          "has_embedding": true,
+          "embedding_dimensions": 1536
+        },
+        {
+          "chunk_id": "doc_78281_chunk_00002",
+          "chunk_index": 2,
+          "text_preview": "Id. at 1123-24.  In Jones, the Ninth Circuit found that the overly expansive reach of the\nLos Angeles ordinance was its fatal flaw, as the homeless vi...",
+          "has_embedding": true,
+          "embedding_dimensions": 1536
+        }
+      ]
+    },
+    {
+      "doc_id": 78340,
+      "title": "Memorandum Decision and Order on Defendants' Second Motion for Summary Judgment",
+      "doc_date": "2014-01-27",
+      "chunks_count": 12,
+      "summary_length": 2844,
+      "summary_preview": "The United States District Court for the District of Idaho issued a Memorandum Decision and Order on January 27, 2014, regarding the Defendants' Second Motion for Summary Judgment in the case of Janet F. Bell et al. v. City of Boise et al., Case No. 1:09-cv-00540-REB [CITE:doc_78340_chunk_00000]. Th...",
+      "sample_chunks": [
+        {
+          "chunk_id": "doc_78340_chunk_00000",
+          "chunk_index": 0,
+          "text_preview": "UNITED STATES DISTRICT COURT\nDISTRICT OF IDAHO\nJANET F. BELL, BRIAN S. CARSON,\nROBERT MARTIN, LAWRENCE LEE\nSMITH, ROBERT ANDERSON, PAMELA S. Case No. ...",
+          "has_embedding": true,
+          "embedding_dimensions": 1536
+        },
+        {
+          "chunk_id": "doc_78340_chunk_00001",
+          "chunk_index": 1,
+          "text_preview": "not precluded by the doctrine of res judicata, and it remains to be determined on the\nmerits.  The Court will require, however, that Plaintiffs file a...",
+          "has_embedding": true,
+          "embedding_dimensions": 1536
+        },
+        {
+          "chunk_id": "doc_78340_chunk_00002",
+          "chunk_index": 2,
+          "text_preview": "matter jurisdiction over Plaintiffs’ claims for retrospective relief and that Plaintiffs’\nclaims for prospective injunctive and declaratory relief wer...",
+          "has_embedding": true,
+          "embedding_dimensions": 1536
+        }
+      ]
+    },
+    {
+      "doc_id": 154972,
+      "title": "Joint Stipulation to Dismiss with Prejudice",
+      "doc_date": "2021-03-01",
+      "chunks_count": 1,
+      "summary_length": 1287,
+      "summary_preview": "On March 1, 2021, the plaintiffs Robert Martin, Pamela Hawkes, and Robert Anderson filed a Joint Stipulation to Dismiss with Prejudice in the case against the City of Boise, identified as Case No. 1:09-cv-00540-REB [CITE:doc_154972_chunk_00000]. The parties reached a settlement regarding the claims ...",
+      "sample_chunks": [
+        {
+          "chunk_id": "doc_154972_chunk_00000",
+          "chunk_index": 0,
+          "text_preview": "Case 1:09-cv-00540-REB     Document 392     Filed 03/01/21     Page 1 of 3\n\nMichael E. Bern #994791 (DC)  Howard A. Belodoff, ISB # 2290 \nAllen M. Gar...",
+          "has_embedding": true,
+          "embedding_dimensions": 1536
+        }
+      ]
+    },
+    {
+      "doc_id": 154910,
+      "title": "Order of Dismissal with Prejudice",
+      "doc_date": "2021-03-02",
+      "chunks_count": 1,
+      "summary_length": 614,
+      "summary_preview": "The United States District Court for the District of Idaho issued an Order of Dismissal with Prejudice on March 2, 2021, regarding the case Robert Martin, et al. v. City of Boise, et al., Case No. 1:09-cv-00540-REB. The dismissal was based on a Joint Stipulation to Dismiss with Prejudice filed by th...",
+      "sample_chunks": [
+        {
+          "chunk_id": "doc_154910_chunk_00000",
+          "chunk_index": 0,
+          "text_preview": "Case 1:09-cv-00540-REB     Document 394     Filed 03/02/21     Page 1 of 1\nUNITED STATES DISTRICT COURT \nDISTRICT OF IDAHO\n\nROBERT MARTIN, et al.,  Ca...",
+          "has_embedding": true,
+          "embedding_dimensions": 1536
+        }
+      ]
+    },
+    {
+      "doc_id": 155309,
+      "title": "Exhibit B - Settlement Agreement",
+      "doc_date": "2021-02-08",
+      "chunks_count": 2,
+      "summary_length": 3885,
+      "summary_preview": "The document titled \"Exhibit B - Settlement Agreement\" dated February 8, 2021, outlines the terms of a settlement in the case Martin v. Boise, aimed at protecting the constitutional rights of homeless individuals in Boise, Idaho. The settlement seeks to prevent the issuance of citations or incarcera...",
+      "sample_chunks": [
+        {
+          "chunk_id": "doc_155309_chunk_00000",
+          "chunk_index": 0,
+          "text_preview": "Case 1:09-cv-00540-REB   Document 390-2   Filed 02/08/21   Page 1 of 5\n\nEXHIBIT B\n\nCase 1:09-cv-00540-REB   Document 390-2   Filed 02/08/21   Page 2 o...",
+          "has_embedding": true,
+          "embedding_dimensions": 1536
+        },
+        {
+          "chunk_id": "doc_155309_chunk_00001",
+          "chunk_index": 1,
+          "text_preview": "BOISE HOMELESS INITIATIVE FUNDS: \nThe City will appropriate $1,335,000 in general funds for the provision of services to the \nBoise homeless community...",
+          "has_embedding": true,
+          "embedding_dimensions": 1536
+        }
+      ]
+    },
+    {
+      "doc_id": 154973,
+      "title": "Joint Motion for Dismissal with Prejudice",
+      "doc_date": "2021-02-08",
+      "chunks_count": 1,
+      "summary_length": 2058,
+      "summary_preview": "On February 8, 2021, Plaintiffs Robert Martin, Pamela Hawkes, and Robert Anderson filed a Joint Motion for Dismissal with Prejudice against the Defendant City of Boise in the United States District Court for the District of Idaho, case number 1:09-cv-0540-REB [CITE:doc_154973_chunk_00000]. The motio...",
+      "sample_chunks": [
+        {
+          "chunk_id": "doc_154973_chunk_00000",
+          "chunk_index": 0,
+          "text_preview": "Case 1:09-cv-00540-REB   Document 390   Filed 02/08/21   Page 1 of 4\n\nMichael E. Bern #994791 (DC)  Howard A. Belodoff, ISB # 2290 \nAllen M. Gardner, ...",
+          "has_embedding": true,
+          "embedding_dimensions": 1536
+        }
+      ]
+    },
+    {
+      "doc_id": 154974,
+      "title": "Settlement Agreement Term Sheet",
+      "doc_date": "2021-02-08",
+      "chunks_count": 1,
+      "summary_length": 2002,
+      "summary_preview": "The document is a Settlement Agreement Term Sheet dated February 8, 2021, related to the case Martin et al v. City of Boise, case number 1:09-cv-00540-REB. The parties involved are the Plaintiffs, Robert Martin, Pamela Hawkes, and Robert Anderson, and the Defendant, the City of Boise [CITE:doc_15497...",
+      "sample_chunks": [
+        {
+          "chunk_id": "doc_154974_chunk_00000",
+          "chunk_index": 0,
+          "text_preview": "Case 1:09-cv-00540-REB   Document 390-1   Filed 02/08/21   Page 1 of 3\n\nEXHIBIT A\n\nCase 1:09-cv-00540-REB   Document 390-1   Filed 02/08/21   Page 2 o...",
+          "has_embedding": true,
+          "embedding_dimensions": 1536
+        }
+      ]
+    },
+    {
+      "doc_id": 78285,
+      "title": "Statement of Interest of the United States",
+      "doc_date": "2015-07-06",
+      "chunks_count": 7,
+      "summary_length": 4196,
+      "summary_preview": "The **Statement of Interest of the United States** was filed on July 6, 2015, in the case of **Janet F. Bell, et al. v. City of Boise, et al.**, Civil Action No. 1:09-cv-540-REB, in the United States District Court for the District of Idaho. The document is authored by various officials from the U.S...",
+      "sample_chunks": [
+        {
+          "chunk_id": "doc_78285_chunk_00000",
+          "chunk_index": 0,
+          "text_preview": "Case 1:09-cv-00540-REB   Document 276   Filed 08/06/15   Page 1 of 17\nVANITA GUPTA  WENDY OLSON \nPrincipal Deputy Assistant Attorney General  United S...",
+          "has_embedding": true,
+          "embedding_dimensions": 1536
+        },
+        {
+          "chunk_id": "doc_78285_chunk_00001",
+          "chunk_index": 1,
+          "text_preview": "7 See Revised Second Am. Compl. at 4-5, ECF No. 171.  Plaintiffs in this case challenge the \napplication of two Boise Municipal Code ordinances.  The ...",
+          "has_embedding": true,
+          "embedding_dimensions": 1536
+        },
+        {
+          "chunk_id": "doc_78285_chunk_00002",
+          "chunk_index": 2,
+          "text_preview": "authority under Section 14141 to investigate numerous jurisdictions for unconstitutional police \npractices.10   \nThe United States also has a broad in...",
+          "has_embedding": true,
+          "embedding_dimensions": 1536
+        }
+      ]
+    },
+    {
+      "doc_id": 78283,
+      "title": "Order [protective order]",
+      "doc_date": "2015-01-06",
+      "chunks_count": 2,
+      "summary_length": 3120,
+      "summary_preview": "On January 6, 2015, the United States District Court for the District of Idaho issued an Order regarding a Motion for Protective Order filed by the Defendants in the case of Janet F. Bell, et al. v. City of Boise, et al., Case No. CV 09-540-S-REB. The Defendants sought to limit the scope of the depo...",
+      "sample_chunks": [
+        {
+          "chunk_id": "doc_78283_chunk_00000",
+          "chunk_index": 0,
+          "text_preview": "Case 1:09-cv-00540-REB   Document 195   Filed 01/06/15   Page 1 of 5\nUNITED STATES DISTRICT COURT\nDISTRICT OF IDAHO\nJANET F. BELL, et al.,\nCase No. CV...",
+          "has_embedding": true,
+          "embedding_dimensions": 1536
+        },
+        {
+          "chunk_id": "doc_78283_chunk_00001",
+          "chunk_index": 1,
+          "text_preview": "Case 1:09-cv-00540-REB   Document 195   Filed 01/06/15   Page 4 of 5\ndiscovery of admissible evidence.1  Additionally, the City’s policy on neighborho...",
+          "has_embedding": true,
+          "embedding_dimensions": 1536
+        }
+      ]
+    },
+    {
+      "doc_id": 78279,
+      "title": "Complaint for Injunctive and Declaratory Relief and Monetary Damages",
+      "doc_date": "2009-10-22",
+      "chunks_count": 9,
+      "summary_length": 3714,
+      "summary_preview": "The document is a complaint filed on October 22, 2009, in the United States District Court for the District of Idaho, by Plaintiffs Janet F. Bell, Brian S. Carson, Craig Fox, Robert Martin, Lawrence Lee Smith, Robert Anderson, and Pamela S. Hawkes against the City of Boise, the Boise Police Departme...",
+      "sample_chunks": [
+        {
+          "chunk_id": "doc_78279_chunk_00000",
+          "chunk_index": 0,
+          "text_preview": "Case 1:09-cv-00540-REB   Document 1   Filed 10/22/09   Page 1 of 24\n\nHoward A. Belodoff, ISB # 2290 \nIDAHO LEGAL AID SERVICES, INC. \n310 N. 5th Street...",
+          "has_embedding": true,
+          "embedding_dimensions": 1536
+        },
+        {
+          "chunk_id": "doc_78279_chunk_00001",
+          "chunk_index": 1,
+          "text_preview": "PARTIES \nA.  Plaintiffs \n7.  Plaintiff JANET F. BELL has resided in Boise since April 13, 2007, and for most \nof that time was without shelter.  Bell ...",
+          "has_embedding": true,
+          "embedding_dimensions": 1536
+        },
+        {
+          "chunk_id": "doc_78279_chunk_00002",
+          "chunk_index": 2,
+          "text_preview": "officer arrested Carson because of a warrant associated with a previous citation, and Carson \nspent two days in jail.  He was billed $50 for this peri...",
+          "has_embedding": true,
+          "embedding_dimensions": 1536
+        }
+      ]
+    },
+    {
+      "doc_id": 106771,
+      "title": "Order",
+      "doc_date": "2019-04-01",
+      "chunks_count": 23,
+      "summary_length": 3086,
+      "summary_preview": "The court document titled \"Order\" dated April 1, 2019, pertains to the case of Martin v. City of Boise, 920 F.3d 584 (2019), where the plaintiffs, a group of homeless individuals, challenged the constitutionality of Boise's public camping ordinances under the Eighth Amendment. The plaintiffs include...",
+      "sample_chunks": [
+        {
+          "chunk_id": "doc_106771_chunk_00000",
+          "chunk_index": 0,
+          "text_preview": "Martin v. City of Boise, 920 F.3d 584 (2019)   \n19 Cal. Daily Op. Serv. 2944, 2019 Daily Journal D.A.R. 2762\n\nallegedly  lacking  alternative  types  ...",
+          "has_embedding": true,
+          "embedding_dimensions": 1536
+        },
+        {
+          "chunk_id": "doc_106771_chunk_00001",
+          "chunk_index": 1,
+          "text_preview": "lying in all public spaces, when no alternative sleeping \nI strongly disfavor this circuit’s innovation in en banc \nspace is available, violate the Ei...",
+          "has_embedding": true,
+          "embedding_dimensions": 1536
+        },
+        {
+          "chunk_id": "doc_106771_chunk_00002",
+          "chunk_index": 2,
+          "text_preview": "A.  “unnecessary to pursue at this point the further definition \nof the circumstances or the state of intoxication which \nmight bar conviction of a ch...",
+          "has_embedding": true,
+          "embedding_dimensions": 1536
+        }
+      ]
+    },
+    {
+      "doc_id": 106773,
+      "title": "Third Amended Complaint for Declaratory And Injunctive Relief and Monetary Damages",
+      "doc_date": "2020-03-10",
+      "chunks_count": 9,
+      "summary_length": 4238,
+      "summary_preview": "The **Third Amended Complaint for Declaratory and Injunctive Relief and Monetary Damages** was filed on March 10, 2020, in the United States District Court for the District of Idaho by plaintiffs Robert Martin, Robert Anderson, and Pamela Hawkes against the City of Boise and Michael Masterson, the I...",
+      "sample_chunks": [
+        {
+          "chunk_id": "doc_106773_chunk_00000",
+          "chunk_index": 0,
+          "text_preview": "Case 1:09-cv-00540-REB   Document 338   Filed 03/10/20   Page 1 of 25\n\nAllen M. Gardner, #456723 (DC)  Howard A. Belodoff, ISB # 2290 \nMichael E. Bern...",
+          "has_embedding": true,
+          "embedding_dimensions": 1536
+        },
+        {
+          "chunk_id": "doc_106773_chunk_00001",
+          "chunk_index": 1,
+          "text_preview": "JURISDICTION AND VENUE \n8.  This Court has subject matter jurisdiction under 28 U.S.C. §§ 1331, 1343(a)(3) and \n(4), and 1367.  Plaintiffs bring this ...",
+          "has_embedding": true,
+          "embedding_dimensions": 1536
+        },
+        {
+          "chunk_id": "doc_106773_chunk_00002",
+          "chunk_index": 2,
+          "text_preview": "sleeping outside the Interfaith Sanctuary shelter.  Upon information and belief, Martin pled guilty \nbecause he did not have the funds to hire an atto...",
+          "has_embedding": true,
+          "embedding_dimensions": 1536
+        }
+      ]
+    },
+    {
+      "doc_id": 99184,
+      "title": "Memorandum Decision and Opinion",
+      "doc_date": "2015-09-28",
+      "chunks_count": 9,
+      "summary_length": 3454,
+      "summary_preview": "In the case of Robert Martin and Robert Anderson v. City of Boise, Case No. 1:09-cv-00540-REB, the United States District Court for the District of Idaho issued a Memorandum Decision and Order on September 28, 2015. The case, which has a lengthy procedural history, involves multiple motions, includi...",
+      "sample_chunks": [
+        {
+          "chunk_id": "doc_99184_chunk_00000",
+          "chunk_index": 0,
+          "text_preview": "UNITED STATES DISTRICT COURT\nDISTRICT OF IDAHO\nROBERT MARTIN and ROBERT\nANDERSON, Case No. 1:09-cv-00540-REB\nPlaintiffs,\nMEMORANDUM DECISION \nvs. AND ...",
+          "has_embedding": true,
+          "embedding_dimensions": 1536
+        },
+        {
+          "chunk_id": "doc_99184_chunk_00001",
+          "chunk_index": 1,
+          "text_preview": "shelter space.  Thus, there is no actual or imminent threat that either Plaintiff will be cited\nfor violating the Ordinances.  In the absence of such ...",
+          "has_embedding": true,
+          "embedding_dimensions": 1536
+        },
+        {
+          "chunk_id": "doc_99184_chunk_00002",
+          "chunk_index": 2,
+          "text_preview": "(2013) (citations and internal quotation marks omitted).  “Although imminence is\nconcededly a somewhat elastic concept, it cannot be stretched beyond ...",
+          "has_embedding": true,
+          "embedding_dimensions": 1536
+        }
+      ]
+    },
+    {
+      "doc_id": 78327,
+      "title": "Revised Second Amended Complaint for Injunctive and Declaratory Relief",
+      "doc_date": "2014-07-31",
+      "chunks_count": 8,
+      "summary_length": 3376,
+      "summary_preview": "The Revised Second Amended Complaint for Injunctive and Declaratory Relief was filed on July 31, 2014, in the United States District Court for the District of Idaho, under Case No. 1:09-CV-540-REB. The plaintiffs, Robert Martin, Lawrence Lee Smith, Robert Anderson, Basil E. Humphrey, Pamela S. Hawke...",
+      "sample_chunks": [
+        {
+          "chunk_id": "doc_78327_chunk_00000",
+          "chunk_index": 0,
+          "text_preview": "Case 1:09-cv-00540-REB   Document 171   Filed 07/31/14   Page 1 of 26\nPUBLIC RECORD VERSION \nHoward A. Belodoff, ISB # 2290 \nIDAHO LEGAL AID SERVICES,...",
+          "has_embedding": true,
+          "embedding_dimensions": 1536
+        },
+        {
+          "chunk_id": "doc_78327_chunk_00001",
+          "chunk_index": 1,
+          "text_preview": "In the past, he stayed at the Interfaith Sanctuary shelter with his then-wife \nand small child, but Interfaith Sanctuary asked Martin and his family t...",
+          "has_embedding": true,
+          "embedding_dimensions": 1536
+        },
+        {
+          "chunk_id": "doc_78327_chunk_00002",
+          "chunk_index": 2,
+          "text_preview": "Case 1:09-cv-00540-REB   Document 171   Filed 07/31/14   Page 7 of 26\nPUBLIC RECORD VERSION \ncitations.  Anderson believes that the officer specifical...",
+          "has_embedding": true,
+          "embedding_dimensions": 1536
+        }
+      ]
+    },
+    {
+      "doc_id": 78343,
+      "title": "Plaintiff's Motion for Summary Judgment",
+      "doc_date": "2015-04-30",
+      "chunks_count": 14,
+      "summary_length": 3186,
+      "summary_preview": "On April 30, 2015, Plaintiffs Robert Anderson and Robert Martin filed a Motion for Summary Judgment in the United States District Court for the District of Idaho, Case No. 1:09-cv-00540-REB, against the City of Boise and other defendants. The motion is supported by a Statement of Undisputed Material...",
+      "sample_chunks": [
+        {
+          "chunk_id": "doc_78343_chunk_00000",
+          "chunk_index": 0,
+          "text_preview": "Case 1:09-cv-00540-REB   Document 243   Filed 04/30/15   Page 1 of 4\nAllen Gardner, # 456723 (DC)  Howard A. Belodoff, ISB # 2290 \nScott Jones, # 9863...",
+          "has_embedding": true,
+          "embedding_dimensions": 1536
+        },
+        {
+          "chunk_id": "doc_78343_chunk_00001",
+          "chunk_index": 1,
+          "text_preview": "(5) Plaintiff Anderson testified that at BRM “[f]reedom of choice, I feel that’s taken away….”  \nExh. 4 at 73:19-20.  He said, “they force religion on...",
+          "has_embedding": true,
+          "embedding_dimensions": 1536
+        },
+        {
+          "chunk_id": "doc_78343_chunk_00002",
+          "chunk_index": 2,
+          "text_preview": "(17) Various factors can lead to an undercount.  Exh. 34 at 4; Exh. 20 at 34:11-18.  Factors \ninclude the number of volunteers, the adequacy of traini...",
+          "has_embedding": true,
+          "embedding_dimensions": 1536
+        }
+      ]
+    },
+    {
+      "doc_id": 99185,
+      "title": "Opinion",
+      "doc_date": "2018-09-04",
+      "chunks_count": 14,
+      "summary_length": 3671,
+      "summary_preview": "On September 4, 2018, the United States Court of Appeals for the Ninth Circuit issued an opinion in the case of Robert Martin et al. v. City of Boise, No. 15-35845, concerning the enforcement of city ordinances against homeless individuals. The plaintiffs, six current or former residents of Boise wh...",
+      "sample_chunks": [
+        {
+          "chunk_id": "doc_99185_chunk_00000",
+          "chunk_index": 0,
+          "text_preview": "Case: 15-35845, 09/04/2018, ID: 10998745, DktEntry: 66-1, Page 1 of 38\nFOR PUBLICATION\nUNITED STATES COURT OF APPEALS\nFOR THE NINTH CIRCUIT\nROBERT MAR...",
+          "has_embedding": true,
+          "embedding_dimensions": 1536
+        },
+        {
+          "chunk_id": "doc_99185_chunk_00001",
+          "chunk_index": 1,
+          "text_preview": "Case: 15-35845, 09/04/2018, ID: 10998745, DktEntry: 66-1, Page 5 of 38\nMARTIN V. CITY OF BOISE 5\nbetween 2007 and 2009, he or she was cited by Boise p...",
+          "has_embedding": true,
+          "embedding_dimensions": 1536
+        },
+        {
+          "chunk_id": "doc_99185_chunk_00002",
+          "chunk_index": 2,
+          "text_preview": "Case: 15-35845, 09/04/2018, ID: 10998745, DktEntry: 66-1, Page 8 of 38\n8 MARTIN V. CITY OF BOISE\norganization.  One of those shelters, the River of Li...",
+          "has_embedding": true,
+          "embedding_dimensions": 1536
+        }
+      ]
+    }
+  ],
+  "docket_entries_count": 428,
+  "initial_context_length": 67428
+}
