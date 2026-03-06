@@ -19,7 +19,7 @@ app = FastAPI(
 # CORS middleware
 # In production, set ALLOWED_ORIGINS to your frontend URL (e.g. "https://courtqa.vercel.app")
 # Multiple origins can be comma-separated
-allowed_origins_env = os.getenv("ALLOWED_ORIGINS", "http://localhost:5173")
+allowed_origins_env = os.getenv("ALLOWED_ORIGINS", "https://courtqa.vercel.app")
 origins = [origin.strip() for origin in allowed_origins_env.split(",")]
 
 app.add_middleware(
