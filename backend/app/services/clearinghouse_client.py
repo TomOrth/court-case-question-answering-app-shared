@@ -196,7 +196,10 @@ class ClearinghouseClient:
             self.fetch_dockets(case_id),
             self.fetch_resources(case_id),
         )
-
+        text_urls = []
+        for i in range(len(documents)):
+            if "text_url" in documents[i]:
+                documents[i]["text"] = httpx.get(documents[i]["text_url"])
         return {
             "case": case_metadata,
             "documents": documents,

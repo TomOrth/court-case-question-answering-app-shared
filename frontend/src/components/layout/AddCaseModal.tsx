@@ -75,7 +75,7 @@ export default function AddCaseModal({ isOpen, onClose }: AddCaseModalProps) {
                     </div>
 
                     {/* Form */}
-                    <form onSubmit={(e) => handleSubmit(e)} className="space-y-4">
+                    <form onSubmit={handleSubmit} className="space-y-4">
                         <div>
                             <label htmlFor="caseId" className="block text-sm font-medium text-gray-300 mb-2">
                                 Case ID (from Clearinghouse)
@@ -133,8 +133,8 @@ export default function AddCaseModal({ isOpen, onClose }: AddCaseModalProps) {
                                     Close
                                 </button>
                                 <button
-                                    type="button"
-                                    className="flex-1 bg-gray-600 text-white font-semibold py-2 px-4 rounded-lg"
+                                    type="submit"
+                                    className="flex-1 bg-blue-600 hover:bg-blue-700 text-white font-semibold py-2 px-4 rounded-lg transition duration-200"
                                 >
                                     Add Case
                                 </button>
