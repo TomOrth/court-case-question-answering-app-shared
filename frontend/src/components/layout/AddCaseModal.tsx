@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react';
-// import { api } from '../../services/api';
+import { api } from '../../services/api';
 
 interface AddCaseModalProps {
     isOpen: boolean;
@@ -20,30 +20,30 @@ export default function AddCaseModal({ isOpen, onClose }: AddCaseModalProps) {
         }
     }, [isOpen]);
 
-    // const handleSubmit = (e: React.FormEvent) => {
-    //     e.preventDefault();
-        
-    //     const caseIdNum = parseInt(caseId);
-    //     if (!caseIdNum || isNaN(caseIdNum)) {
-    //         setStatus('error');
-    //         setMessage('Please enter a valid case ID (number)');
-    //         return;
-    //     }
+    const handleSubmit = (e: React.FormEvent) => {
+        e.preventDefault();
 
-    //     // Fire and forget - don't wait for response
-    //     api.preprocessing.preprocessCase(caseIdNum)
-    //         .then(response => {
-    //             console.log('Preprocessing started:', response);
-    //         })
-    //         .catch(err => {
-    //             console.error('Preprocessing error:', err);
-    //             // Error is silent - user already sees success message
-    //         });
+        const caseIdNum = parseInt(caseId);
+        if (!caseIdNum || isNaN(caseIdNum)) {
+            setStatus('error');
+            setMessage('Please enter a valid case ID (number)');
+            return;
+        }
 
-    //     // Immediately show success
-    //     setStatus('success');
-    //     setMessage(`Preprocessing started for Case ID ${caseIdNum}`);
-    // };
+        // Fire and forget - don't wait for response
+        api.preprocessing.preprocessCase(caseIdNum)
+            .then(response => {
+                console.log('Preprocessing started:', response);
+            })
+            .catch(err => {
+                console.error('Preprocessing error:', err);
+                // Error is silent - user already sees success message
+            });
+
+        // Immediately show success
+        setStatus('success');
+        setMessage(`Preprocessing started for Case ID ${caseIdNum}`);
+    };
 
     if (!isOpen) return null;
 
@@ -56,7 +56,7 @@ export default function AddCaseModal({ isOpen, onClose }: AddCaseModalProps) {
             />
 
             {/* Modal */}
-            <div 
+            <div
                 className="fixed inset-0 flex items-center justify-center z-50 p-4"
                 onClick={onClose}
             >
@@ -74,16 +74,8 @@ export default function AddCaseModal({ isOpen, onClose }: AddCaseModalProps) {
                         </button>
                     </div>
 
-                    {/* API Change Notification */}
-                    <div className="bg-yellow-900/50 border border-yellow-700 p-4 rounded-lg mb-4">
-                        <h3 className="text-yellow-200 font-semibold mb-1">⚠️ Service Unavailable</h3>
-                        <p className="text-yellow-200/80 text-sm">
-                            The Clearinghouse API has changed to a new version as of January 19. Adding new cases is disabled until the app can be updated to use the new Clearinghouse API version.
-                        </p>
-                    </div>
-
                     {/* Form */}
-                    <form onSubmit={(e) => e.preventDefault()} className="space-y-4">
+                    <form onSubmit={(e) => handleSubmit(e)} className="space-y-4">
                         <div>
                             <label htmlFor="caseId" className="block text-sm font-medium text-gray-300 mb-2">
                                 Case ID (from Clearinghouse)
@@ -94,8 +86,7 @@ export default function AddCaseModal({ isOpen, onClose }: AddCaseModalProps) {
                                 value={caseId}
                                 onChange={(e) => setCaseId(e.target.value)}
                                 placeholder="e.g., 14919"
-                                className="w-full px-4 py-2 bg-gray-700 border border-gray-600 rounded-lg text-white opacity-50 cursor-not-allowed"
-                                disabled={true}
+                                className="w-full px-4 py-2 bg-gray-700 border border-gray-600 rounded-lg text-white"
                                 required
                             />
                             <p className="text-xs text-gray-400 mt-1">
@@ -105,11 +96,10 @@ export default function AddCaseModal({ isOpen, onClose }: AddCaseModalProps) {
 
                         {/* Status messages */}
                         {message && (
-                            <div className={`p-3 rounded-lg text-sm ${
-                                status === 'error' 
-                                    ? 'bg-red-900/50 border border-red-700 text-red-200'
-                                    : 'bg-green-900/50 border border-green-700 text-green-200'
-                            }`}>
+                            <div className={`p-3 rounded-lg text-sm ${status === 'error'
+                                ? 'bg-red-900/50 border border-red-700 text-red-200'
+                                : 'bg-green-900/50 border border-green-700 text-green-200'
+                                }`}>
                                 {message}
                             </div>
                         )}
@@ -144,8 +134,7 @@ export default function AddCaseModal({ isOpen, onClose }: AddCaseModalProps) {
                                 </button>
                                 <button
                                     type="button"
-                                    disabled={true}
-                                    className="flex-1 bg-gray-600 text-gray-400 cursor-not-allowed font-semibold py-2 px-4 rounded-lg"
+                                    className="flex-1 bg-gray-600 text-white font-semibold py-2 px-4 rounded-lg"
                                 >
                                     Add Case
                                 </button>

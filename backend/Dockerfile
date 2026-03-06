@@ -27,4 +27,4 @@ EXPOSE 8000
 # -w 4: 4 worker processes (adjust based on CPU)
 # -k uvicorn.workers.UvicornWorker: Use Uvicorn for asyncio support
 # --bind 0.0.0.0:8000: Listen on all interfaces
-CMD ["gunicorn", "app.main:app", "-w", "4", "-k", "uvicorn.workers.UvicornWorker", "--bind", "0.0.0.0:8000"]
+CMD ["gunicorn", "app.main:app", "-w", "1", "-k", "uvicorn.workers.UvicornWorker", "--bind", "0.0.0.0:8000"]
