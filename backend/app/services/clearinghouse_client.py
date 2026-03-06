@@ -199,7 +199,15 @@ class ClearinghouseClient:
         text_urls = []
         for i in range(len(documents)):
             if "text_url" in documents[i]:
-                documents[i]["text"] = httpx.get(documents[i]["text_url"]).text
+                async with httpx.AsyncClient(timeout=60.0) as client:
+                    # while url:
+                    response = await client.get(
+                        documents[i]["text_url"], 
+                        params=None, # only send params on first request. Next URLs already have params embedded
+                        headers=self.headers
+                    )
+                    response.raise_for_status()
+                    documents[i]["text"] = response.json()["text"]
         return {
             "case": case_metadata,
             "documents": documents,
