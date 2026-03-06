@@ -199,7 +199,7 @@ class ClearinghouseClient:
         text_urls = []
         for i in range(len(documents)):
             if "text_url" in documents[i]:
-                documents[i]["text"] = httpx.get(documents[i]["text_url"])
+                documents[i]["text"] = httpx.get(documents[i]["text_url"]).text
         return {
             "case": case_metadata,
             "documents": documents,
