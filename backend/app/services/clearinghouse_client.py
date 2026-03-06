@@ -13,9 +13,9 @@ This module handles:
 
 import httpx
 from typing import Optional
-from app.core.config import get_settings
+import os
 
-BASE_URL = "https://clearinghouse.net/api/v2"
+BASE_URL = "https://clearinghouse.net/api/v2p1"
 
 
 class ClearinghouseClient:
@@ -28,8 +28,7 @@ class ClearinghouseClient:
     """
     def __init__(self):
         
-        settings = get_settings()
-        self.api_key = settings.CLEARINGHOUSE_API_KEY
+        self.api_key = os.getenv("CLEARINGHOUSE_API_KEY")
         self.headers = {
             "Authorization": f"Token {self.api_key}",
             "Accept": "application/json",
@@ -144,8 +143,8 @@ class ClearinghouseClient:
         Note: This endpoint returns plain array format.
         """
         return await self._fetch_endpoint(
-            "documents",
-            {"case": case_id}
+            f"cases/{case_id}/documents",
+            None,
         )
     
     async def fetch_dockets(self, case_id: int) -> list:
@@ -158,8 +157,8 @@ class ClearinghouseClient:
         """
 
         return await self._fetch_endpoint(
-            "dockets",
-            {"case": case_id}
+            f"cases/{case_id}/dockets",
+            None,
         )
     
     async def fetch_resources(self, case_id: int) -> list:
@@ -170,8 +169,8 @@ class ClearinghouseClient:
         """
 
         return await self._fetch_endpoint(
-            "resources",
-            {"case": case_id}
+           f"cases/{case_id}/resources",
+           None,
         )
     
     async def fetch_case_data(self, case_id: int) -> dict:

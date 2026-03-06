@@ -1,0 +1,25 @@
+[project]
+name = "backend"
+version = "0.1.0"
+description = "Backend for court case question answering app"
+requires-python = "==3.11.13"
+dependencies = [
+    "fastapi==0.109.0",
+    "uvicorn[standard]==0.27.0",
+    "pydantic==2.5.3",
+    "pydantic-settings==2.1.0",
+    "sqlalchemy[asyncio]==2.0.25",
+    "asyncpg==0.29.0",
+    "alembic==1.13.1",
+    "pgvector==0.2.5",
+    "psycopg2-binary==2.9.9",
+    "supabase>=2.10.0",
+    "openai>=1.30.0",
+    "python-dotenv==1.0.0",
+    "python-multipart==0.0.6",
+    "httpx>=0.25.0",
+    "python-jose[cryptography]==3.3.0",
+    "passlib[bcrypt]==1.7.4",
+    "gunicorn==21.2.0",
+    "tiktoken>=0.5.0",
+]
