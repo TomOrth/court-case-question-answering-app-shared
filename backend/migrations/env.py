@@ -16,6 +16,7 @@ config = context.config
 
 # Get DATABASE_URL and convert to asyncpg dialect
 database_url = os.getenv('DATABASE_URL')
+print(database_url)
 # if database_url and database_url.startswith('postgresql://'):
 #     database_url = database_url.replace('postgresql://', 'postgresql+asyncpg://', 1)
 

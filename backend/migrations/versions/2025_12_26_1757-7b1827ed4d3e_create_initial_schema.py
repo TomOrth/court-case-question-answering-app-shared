@@ -138,7 +138,7 @@ def upgrade() -> None:
     op.create_index(op.f('ix_api_logs_timestamp'), 'api_logs', ['timestamp'], unique=False)
     op.create_table('chunk_embeddings',
     sa.Column('chunk_id', sa.String(length=50), nullable=False),
-    sa.Column('embedding', pgvector.sqlalchemy.vector.VECTOR(dim=1536), nullable=False, comment='OpenAI embedding vector'),
+    sa.Column('embedding', pgvector.sqlalchemy.Vector(dim=1536), nullable=False, comment='OpenAI embedding vector'),
     sa.ForeignKeyConstraint(['chunk_id'], ['chunks.chunk_id'], ondelete='CASCADE'),
     sa.PrimaryKeyConstraint('chunk_id')
     )
