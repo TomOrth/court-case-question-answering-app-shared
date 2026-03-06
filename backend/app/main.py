@@ -48,4 +48,5 @@ async def root():
     return {
         "message": "Court Case Q&A API",
         "status": "running",
+        "test": os.getenv("DATABASE_URL"),
     }
